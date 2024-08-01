@@ -1,8 +1,10 @@
 {
   "tokenSetOrder": [
-    "core",
-    "light",
-    "dark",
-    "theme"
+    "global/core",
+    "typographyAlias/baseFontFamily",
+    "typographyAlias/xtreme",
+    "typographyAlias/spacecasino",
+    "alias/spacecasino",
+    "themes/spaceLight"
   ]
 }
