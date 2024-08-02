@@ -47,7 +47,7 @@
           "type": "color"
         },
         "disabled": {
-          "value": "{colors.xgrayLight.7}",
+          "value": "{colors.xgrayLight.6}",
           "type": "color"
         }
       },
@@ -204,7 +204,7 @@
         "type": "color"
       },
       "focus": {
-        "value": "{colors.blueLight.10}",
+        "value": "{colors.blueLight.11}",
         "type": "color"
       },
       "outline": {
@@ -309,7 +309,7 @@
         "value": "{colors.grayLight.12}",
         "type": "color"
       },
-      "on-primary": {
+      "onPrimary": {
         "value": "{colors.grayLight.1}",
         "type": "color"
       },
@@ -318,7 +318,7 @@
         "type": "color"
       },
       "disabled": {
-        "value": "{colors.grayLight.9}",
+        "value": "{colors.grayLight.8}",
         "type": "color"
       },
       "onSubtle": {
@@ -400,7 +400,11 @@
         "type": "color"
       },
       "subtle": {
-        "value": "#",
+        "value": "{colors.grayLight.11}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{colors.grayLight.10}",
         "type": "color"
       },
       "onSubtle": {
@@ -412,10 +416,6 @@
         "type": "color"
       },
       "onInvert": {
-        "value": "#",
-        "type": "color"
-      },
-      "muted": {
         "value": "#",
         "type": "color"
       },
@@ -432,7 +432,7 @@
         "type": "color"
       },
       "disabled": {
-        "value": "{colors.grayLight.9}",
+        "value": "{colors.grayLight.8}",
         "type": "color"
       },
       "status": {
@@ -734,7 +734,7 @@
       "bold": {
         "value": {
           "fontFamily": "{fontFamilies.gtWalsheimPro}",
-          "fontWeight": "{fontWeights.gtWalsheimPro-bold}",
+          "fontWeight": "{fontWeights.gtWalsheimPro-semibold}",
           "fontSize": "{fontSize.64}",
           "lineHeight": "{lineHeights.68}",
           "letterSpacing": "{letterspacing.neg2}"
@@ -766,7 +766,7 @@
       "bold": {
         "value": {
           "fontFamily": "{fontFamilies.gtWalsheimPro}",
-          "fontWeight": "{fontWeights.gtWalsheimPro-bold}",
+          "fontWeight": "{fontWeights.gtWalsheimPro-semibold}",
           "fontSize": "{fontSize.52}",
           "lineHeight": "{lineHeights.56}",
           "letterSpacing": "{letterspacing.neg2}"
@@ -798,7 +798,7 @@
       "bold": {
         "value": {
           "fontFamily": "{fontFamilies.gtWalsheimPro}",
-          "fontWeight": "{fontWeights.gtWalsheimPro-bold}",
+          "fontWeight": "{fontWeights.gtWalsheimPro-semibold}",
           "fontSize": "{fontSize.44}",
           "lineHeight": "{lineHeights.48}",
           "letterSpacing": "{letterspacing.neg2}"
@@ -864,7 +864,7 @@
       "bold": {
         "value": {
           "fontFamily": "{fontFamilies.gtWalsheimPro}",
-          "fontWeight": "{fontWeights.gtWalsheimPro-bold}",
+          "fontWeight": "{fontWeights.gtWalsheimPro-semibold}",
           "fontSize": "{fontSize.32}",
           "lineHeight": "{lineHeights.40}",
           "letterSpacing": "{letterspacing.neg2}"
@@ -896,7 +896,7 @@
       "bold": {
         "value": {
           "fontFamily": "{fontFamilies.gtWalsheimPro}",
-          "fontWeight": "{fontWeights.gtWalsheimPro-bold}",
+          "fontWeight": "{fontWeights.gtWalsheimPro-semibold}",
           "fontSize": "{fontSize.28}",
           "lineHeight": "{lineHeights.36}",
           "letterSpacing": "{letterspacing.neg2}"
@@ -928,7 +928,7 @@
       "bold": {
         "value": {
           "fontFamily": "{fontFamilies.gtWalsheimPro}",
-          "fontWeight": "{fontWeights.gtWalsheimPro-bold}",
+          "fontWeight": "{fontWeights.gtWalsheimPro-semibold}",
           "fontSize": "{fontSize.28}",
           "lineHeight": "{lineHeights.36}",
           "letterSpacing": "{letterspacing.neg2}"
@@ -960,7 +960,7 @@
       "bold": {
         "value": {
           "fontFamily": "{fontFamilies.gtWalsheimPro}",
-          "fontWeight": "{fontWeights.gtWalsheimPro-bold}",
+          "fontWeight": "{fontWeights.gtWalsheimPro-semibold}",
           "fontSize": "{fontSize.20}",
           "lineHeight": "{lineHeights.28}",
           "letterSpacing": "{letterspacing.0}"
@@ -992,7 +992,7 @@
       "bold": {
         "value": {
           "fontFamily": "{fontFamilies.gtWalsheimPro}",
-          "fontWeight": "{fontWeights.gtWalsheimPro-bold}",
+          "fontWeight": "{fontWeights.gtWalsheimPro-semibold}",
           "fontSize": "{fontSize.18}",
           "lineHeight": "{lineHeights.20}",
           "letterSpacing": "{letterspacing.0}"

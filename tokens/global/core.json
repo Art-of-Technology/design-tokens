@@ -1916,35 +1916,17 @@
     }
   },
   "fontFamilies": {
-    "inter": {
+    "Inter": {
       "value": "Inter",
       "type": "fontFamilies"
     },
-    "gtWalsheimPro": {
+    "GT Walsheim Pro": {
       "value": "GT Walsheim Pro",
       "type": "fontFamilies"
     },
-    "noto-sans-jp": {
+    "Noto Sans JP": {
       "value": "Noto Sans JP",
       "type": "fontFamilies"
-    }
-  },
-  "fontWeights": {
-    "regular": {
-      "value": "Regular",
-      "type": "fontWeights"
-    },
-    "medium": {
-      "value": "Medium",
-      "type": "fontWeights"
-    },
-    "semibold": {
-      "value": "Semibold",
-      "type": "fontWeights"
-    },
-    "bold": {
-      "value": "bold",
-      "type": "fontWeights"
     }
   },
   "opacity": {
@@ -2015,6 +1997,24 @@
     "100": {
       "value": "1",
       "type": "opacity"
+    }
+  },
+  "fontWeights": {
+    "regular": {
+      "value": "Regular",
+      "type": "fontWeights"
+    },
+    "medium": {
+      "value": "Medium",
+      "type": "fontWeights"
+    },
+    "semibold": {
+      "value": "Semibold",
+      "type": "fontWeights"
+    },
+    "bold": {
+      "value": "bold",
+      "type": "fontWeights"
     }
   }
 }

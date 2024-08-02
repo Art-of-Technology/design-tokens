@@ -4,8 +4,8 @@
     "name": "Xtreme",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "typographyAlias/xtreme": "enabled",
-      "global/core": "source"
+      "global/core": "source",
+      "typography/spacecasino": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:696:349",
     "$figmaModeId": "696:1",
@@ -147,7 +147,6 @@
       "theme.background.input.rest": "77c08bc285de49216d5696d4fe1d740487b51159",
       "theme.icon.primary.rest": "2bc6dccb08ee871a05e7b3dee4013203f7df8fd1",
       "theme.icon.on-secondary": "4199ed5de6425a9eee3875ae5e721d6e73c5f819",
-      "theme.icon.on-primary": "c5259f1a3a2204b665cb7db2586b0d2065bfefb8",
       "theme.icon.primary.pressed": "5064acefb04d36a3c679151ed3070531c0098627",
       "theme.icon.onSubtle": "4d188e768112451d94ecad1c742b5c3e41a5792d",
       "theme.icon.onInvert": "57d069c93253469fc1fb875022d2c0c99a84c10a",
@@ -158,7 +157,8 @@
       "theme.text.onInvert": "50e45b1cdd3974529f1e702a75f3e9b0bb189aa3",
       "theme.text.onPrimary": "6d0a09fcdd29809452e629d5259d65919a7fdbde",
       "theme.text.onSecondary": "139fef763917ea1fedcc906a8a14ad3e6bf94804",
-      "theme.icon.subtle": "613df587cb50357cd9aaa1da8feb9be524083eb8"
+      "theme.icon.subtle": "613df587cb50357cd9aaa1da8feb9be524083eb8",
+      "theme.icon.onPrimary": "c5259f1a3a2204b665cb7db2586b0d2065bfefb8"
     },
     "group": "BrandCore"
   },
@@ -167,9 +167,9 @@
     "name": "SpaceCasino",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "typographyAlias/spacecasino": "source",
       "alias/spacecasino": "enabled",
-      "global/core": "source"
+      "global/core": "source",
+      "typography/spacecasino": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:696:349",
     "$figmaModeId": "696:2",
@@ -285,7 +285,6 @@
       "theme.text.input.rest": "4879408fa66230e37f01ce4dcdec3345b718c929",
       "theme.background.input.rest": "77c08bc285de49216d5696d4fe1d740487b51159",
       "theme.icon.primary.rest": "2bc6dccb08ee871a05e7b3dee4013203f7df8fd1",
-      "theme.icon.on-primary": "c5259f1a3a2204b665cb7db2586b0d2065bfefb8",
       "theme.icon.primary.pressed": "5064acefb04d36a3c679151ed3070531c0098627",
       "theme.icon.onSubtle": "4d188e768112451d94ecad1c742b5c3e41a5792d",
       "theme.icon.onInvert": "57d069c93253469fc1fb875022d2c0c99a84c10a",
@@ -296,7 +295,8 @@
       "theme.text.onInvert": "50e45b1cdd3974529f1e702a75f3e9b0bb189aa3",
       "theme.text.onPrimary": "6d0a09fcdd29809452e629d5259d65919a7fdbde",
       "theme.text.onSecondary": "139fef763917ea1fedcc906a8a14ad3e6bf94804",
-      "theme.icon.subtle": "613df587cb50357cd9aaa1da8feb9be524083eb8"
+      "theme.icon.subtle": "613df587cb50357cd9aaa1da8feb9be524083eb8",
+      "theme.icon.onPrimary": "c5259f1a3a2204b665cb7db2586b0d2065bfefb8"
     },
     "group": "BrandCore"
   },
@@ -305,9 +305,9 @@
     "name": "spacecasino",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "typographyAlias/spacecasino": "enabled",
       "alias/spacecasino": "enabled",
-      "global/core": "source"
+      "global/core": "source",
+      "typography/spacecasino": "enabled"
     },
     "group": "brand"
   },
@@ -316,8 +316,8 @@
     "name": "xtreme",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "typographyAlias/xtreme": "enabled",
-      "global/core": "source"
+      "global/core": "source",
+      "typography/spacecasino": "disabled"
     },
     "group": "brand"
   }

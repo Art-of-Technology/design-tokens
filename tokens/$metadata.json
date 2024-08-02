@@ -1,9 +1,7 @@
 {
   "tokenSetOrder": [
     "global/core",
-    "typographyAlias/baseFontFamily",
-    "typographyAlias/xtreme",
-    "typographyAlias/spacecasino",
+    "typography/spacecasino",
     "alias/spacecasino",
     "themes/spaceLight"
   ]
