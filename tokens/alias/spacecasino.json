@@ -192,7 +192,7 @@
         "type": "color"
       },
       "subtle": {
-        "value": "#",
+        "value": "{colors.grayLight.4}",
         "type": "color"
       },
       "container": {
@@ -313,8 +313,8 @@
         "value": "{colors.grayLight.1}",
         "type": "color"
       },
-      "muted": {
-        "value": "#",
+      "subtle": {
+        "value": "{colors.grayLight.10}",
         "type": "color"
       },
       "disabled": {
@@ -403,15 +403,15 @@
         "value": "#",
         "type": "color"
       },
-      "on subtle": {
+      "onSubtle": {
         "value": "#",
         "type": "color"
       },
-      "on image": {
+      "onImage": {
         "value": "#",
         "type": "color"
       },
-      "on invert": {
+      "onInvert": {
         "value": "#",
         "type": "color"
       },
@@ -423,11 +423,11 @@
         "value": "#",
         "type": "color"
       },
-      "on-primary": {
+      "onPrimary": {
         "value": "{colors.grayLight.1}",
         "type": "color"
       },
-      "on-secondary": {
+      "onSecondary": {
         "value": "{colors.grayLight.12}",
         "type": "color"
       },
