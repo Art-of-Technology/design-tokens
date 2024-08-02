@@ -59,9 +59,6 @@
       "theme.border.status.info": "6a418d54d6d076a14c562fbb95f05289b7aa5e27",
       "theme.icon.muted": "613df587cb50357cd9aaa1da8feb9be524083eb8",
       "theme.icon.neutral": "9950a68d6d871043ed9ec4a9e481a6ed528bb79c",
-      "theme.icon.on invert": "57d069c93253469fc1fb875022d2c0c99a84c10a",
-      "theme.icon.on image": "dfa15468000507a695958aff9dbb80d51eed827e",
-      "theme.icon.on input": "2c8a61b7099e755e86543826247f35498dfac40e",
       "theme.icon.success": "1053cd7149d02f2c5cd1579cd5b66105e4c36e12",
       "theme.icon.warning": "6a0911f7b285f609ff765d4035e64014638e2d56",
       "theme.icon.error": "c94c4c43616880598efdfa9cbaf505692176d306",
@@ -158,7 +155,10 @@
       "theme.icon.on-secondary": "4199ed5de6425a9eee3875ae5e721d6e73c5f819",
       "theme.icon.on-primary": "c5259f1a3a2204b665cb7db2586b0d2065bfefb8",
       "theme.icon.primary.pressed": "5064acefb04d36a3c679151ed3070531c0098627",
-      "theme.icon.onSubtle": "4d188e768112451d94ecad1c742b5c3e41a5792d"
+      "theme.icon.onSubtle": "4d188e768112451d94ecad1c742b5c3e41a5792d",
+      "theme.icon.onInvert": "57d069c93253469fc1fb875022d2c0c99a84c10a",
+      "theme.icon.onImage": "dfa15468000507a695958aff9dbb80d51eed827e",
+      "theme.icon.onInput": "2c8a61b7099e755e86543826247f35498dfac40e"
     },
     "group": "BrandCore"
   },
@@ -202,9 +202,6 @@
       "theme.border.status.info": "6a418d54d6d076a14c562fbb95f05289b7aa5e27",
       "theme.icon.muted": "613df587cb50357cd9aaa1da8feb9be524083eb8",
       "theme.icon.neutral": "9950a68d6d871043ed9ec4a9e481a6ed528bb79c",
-      "theme.icon.on invert": "57d069c93253469fc1fb875022d2c0c99a84c10a",
-      "theme.icon.on image": "dfa15468000507a695958aff9dbb80d51eed827e",
-      "theme.icon.on input": "2c8a61b7099e755e86543826247f35498dfac40e",
       "theme.icon.success": "1053cd7149d02f2c5cd1579cd5b66105e4c36e12",
       "theme.icon.warning": "6a0911f7b285f609ff765d4035e64014638e2d56",
       "theme.icon.error": "c94c4c43616880598efdfa9cbaf505692176d306",
@@ -296,7 +293,10 @@
       "theme.text.on-primary": "6d0a09fcdd29809452e629d5259d65919a7fdbde",
       "theme.icon.on-primary": "c5259f1a3a2204b665cb7db2586b0d2065bfefb8",
       "theme.icon.primary.pressed": "5064acefb04d36a3c679151ed3070531c0098627",
-      "theme.icon.onSubtle": "4d188e768112451d94ecad1c742b5c3e41a5792d"
+      "theme.icon.onSubtle": "4d188e768112451d94ecad1c742b5c3e41a5792d",
+      "theme.icon.onInvert": "57d069c93253469fc1fb875022d2c0c99a84c10a",
+      "theme.icon.onImage": "dfa15468000507a695958aff9dbb80d51eed827e",
+      "theme.icon.onInput": "2c8a61b7099e755e86543826247f35498dfac40e"
     },
     "group": "BrandCore"
   },

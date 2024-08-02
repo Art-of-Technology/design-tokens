@@ -278,7 +278,7 @@
           "value": "{colors.greenLight.9}",
           "type": "color"
         },
-        "success-emphasis": {
+        "successEmphasis": {
           "value": "{colors.greenLight.12}",
           "type": "color"
         },
@@ -286,7 +286,7 @@
           "value": "{colors.orangeLight.9}",
           "type": "color"
         },
-        "warning-emphasis": {
+        "warningEmphasis": {
           "value": "{colors.orangeLight.12}",
           "type": "color"
         },
@@ -325,15 +325,15 @@
         "value": "{colors.grayLight.11}",
         "type": "color"
       },
-      "on invert": {
+      "onInvert": {
         "value": "#",
         "type": "color"
       },
-      "on image": {
+      "onImage": {
         "value": "#",
         "type": "color"
       },
-      "on input": {
+      "onInput": {
         "value": "#",
         "type": "color"
       },
