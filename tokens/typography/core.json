@@ -3,6 +3,10 @@
     "gtWalsheimPro": {
       "value": "GT Walsheim Pro",
       "type": "fontFamilies"
+    },
+    "notosans": {
+      "value": "Noto Sans",
+      "type": "fontFamilies"
     }
   },
   "lineHeights": {
@@ -139,6 +143,18 @@
     "pt5": {
       "value": "0.5%",
       "type": "letterSpacing"
+    }
+  },
+  "gtWalseheimWeights": {
+    "regular": {
+      "value": "{fontWeights.regular}",
+      "type": "fontWeights"
+    }
+  },
+  "notosansWeights": {
+    "regular": {
+      "value": "{fontWeights.regular}",
+      "type": "fontWeights"
     }
   }
 }

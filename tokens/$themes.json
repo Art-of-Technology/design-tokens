@@ -4,7 +4,10 @@
     "name": "Xtreme",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "global/core": "source"
+      "global/core": "source",
+      "typography/core": "disabled",
+      "themes/spaceDark": "disabled",
+      "brand/spacecasino": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:696:349",
     "$figmaModeId": "696:1",
@@ -166,9 +169,10 @@
     "name": "SpaceCasino",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "alias/spacecasino": "enabled",
       "global/core": "source",
-      "typography/spacecasino": "source"
+      "typography/core": "source",
+      "themes/spaceDark": "disabled",
+      "brand/spacecasino": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:696:349",
     "$figmaModeId": "696:2",
@@ -304,9 +308,10 @@
     "name": "spacecasino",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "alias/spacecasino": "enabled",
       "global/core": "source",
-      "typography/spacecasino": "enabled"
+      "typography/core": "enabled",
+      "themes/spaceDark": "disabled",
+      "brand/spacecasino": "enabled"
     },
     "group": "brand"
   },
@@ -315,7 +320,10 @@
     "name": "xtreme",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "global/core": "source"
+      "global/core": "source",
+      "typography/core": "disabled",
+      "themes/spaceDark": "disabled",
+      "brand/spacecasino": "disabled"
     },
     "group": "brand"
   }

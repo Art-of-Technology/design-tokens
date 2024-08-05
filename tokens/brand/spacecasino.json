@@ -207,10 +207,6 @@
         "value": "{colors.blueLight.11}",
         "type": "color"
       },
-      "outline": {
-        "value": "{colors.grayLight.12}",
-        "type": "color"
-      },
       "input": {
         "rest": {
           "value": "{colors.grayLight.5}",
@@ -270,6 +266,10 @@
         },
         "disabled": {
           "value": "{colors.spacesunLight.2}",
+          "type": "color"
+        },
+        "outline": {
+          "value": "{colors.grayLight.12}",
           "type": "color"
         }
       },
