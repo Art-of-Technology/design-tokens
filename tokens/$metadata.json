@@ -3,6 +3,9 @@
     "global/core",
     "alias/spacecasino",
     "alias/xtreme",
-    "themes/spaceLight"
+    "themes/spaceLight",
+    "themes/spaceDark",
+    "themes/xtremeLight",
+    "themes/xtremeDark"
   ]
 }

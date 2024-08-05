@@ -1,1 +1,43 @@
-[]
+[
+  {
+    "id": "d8b485703e41323b51992469a5c5f1ad36ec4d67",
+    "name": "core",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "global/core": "source"
+    },
+    "group": "global"
+  },
+  {
+    "id": "f49e8435365f713ffbe947654ceac6aab2ea4e5d",
+    "name": "spaceLight",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "global/core": "source",
+      "alias/spacecasino": "enabled",
+      "themes/spaceLight": "enabled"
+    },
+    "group": "mapped"
+  },
+  {
+    "id": "f5e7ad3b029ac8749f3de7b6b2fc3fd5f8aadf2b",
+    "name": "spaceDark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "global/core": "source",
+      "alias/spacecasino": "enabled",
+      "themes/spaceDark": "enabled"
+    },
+    "group": "mapped"
+  },
+  {
+    "id": "00217b0401452f7aa2c082285f759e08207d8e83",
+    "name": "spacecasino",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "global/core": "source",
+      "alias/spacecasino": "enabled"
+    },
+    "group": "brand"
+  }
+]
