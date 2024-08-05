@@ -192,7 +192,7 @@
         "type": "color"
       },
       "subtle": {
-        "value": "{colors.grayLight.4}",
+        "value": "{colors.grayLight.5}",
         "type": "color"
       },
       "container": {
@@ -417,6 +417,10 @@
       },
       "muted": {
         "value": "{colors.grayLight.10}",
+        "type": "color"
+      },
+      "inverse": {
+        "value": "{colors.grayLight.1}",
         "type": "color"
       },
       "onSubtle": {
