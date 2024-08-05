@@ -1,8 +1,8 @@
 {
   "tokenSetOrder": [
     "global/core",
-    "typography/spacecasino",
     "alias/spacecasino",
+    "alias/xtreme",
     "themes/spaceLight"
   ]
 }

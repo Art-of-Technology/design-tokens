@@ -739,8 +739,8 @@
     "xl": {
       "medium": {
         "value": {
-          "fontFamily": "{fontFamily.gtWalsheimPro}",
-          "fontWeight": "{fontWeight.500}",
+          "fontFamily": "{fontFamilies.gtWalsheimPro}",
+          "fontWeight": "{fontWeights.gtWalsheimPro-medium}",
           "fontSize": "{fontSize.64}",
           "lineHeight": "{lineHeights.68}",
           "letterSpacing": "{letterspacing.neg2}"
@@ -749,8 +749,8 @@
       },
       "semibold": {
         "value": {
-          "fontFamily": "{fontFamily.gtWalsheimPro}",
-          "fontWeight": "{fontWeights.700}",
+          "fontFamily": "{fontFamilies.gtWalsheimPro}",
+          "fontWeight": "{fontWeights.gtWalsheimPro-semibold}",
           "fontSize": "{fontSize.64}",
           "lineHeight": "{lineHeights.68}",
           "letterSpacing": "{letterspacing.neg2}"
@@ -759,8 +759,8 @@
       },
       "bold": {
         "value": {
-          "fontFamily": "{fontFamily.gtWalsheimPro}",
-          "fontWeight": "{fontWeights.900}",
+          "fontFamily": "{fontFamilies.gtWalsheimPro}",
+          "fontWeight": "{fontWeights.gtWalsheimPro-semibold}",
           "fontSize": "{fontSize.64}",
           "lineHeight": "{lineHeights.68}",
           "letterSpacing": "{letterspacing.neg2}"
@@ -771,8 +771,8 @@
     "lg": {
       "medium": {
         "value": {
-          "fontFamily": "{fontFamily.gtWalsheimPro}",
-          "fontWeight": "{fontWeights.500}",
+          "fontFamily": "{fontFamilies.gtWalsheimPro}",
+          "fontWeight": "{fontWeights.gtWalsheimPro-medium}",
           "fontSize": "{fontSize.52}",
           "lineHeight": "{lineHeights.56}",
           "letterSpacing": "{letterspacing.neg2}"
@@ -781,8 +781,8 @@
       },
       "semibold": {
         "value": {
-          "fontFamily": "{fontFamily.gtWalsheimPro}",
-          "fontWeight": "{fontWeights.700}",
+          "fontFamily": "{fontFamilies.gtWalsheimPro}",
+          "fontWeight": "{fontWeights.gtWalsheimPro-semibold}",
           "fontSize": "{fontSize.52}",
           "lineHeight": "{lineHeights.56}",
           "letterSpacing": "{letterspacing.neg2}"
@@ -791,8 +791,8 @@
       },
       "bold": {
         "value": {
-          "fontFamily": "{fontFamily.gtWalsheimPro}",
-          "fontWeight": "{fontWeights.900}",
+          "fontFamily": "{fontFamilies.gtWalsheimPro}",
+          "fontWeight": "{fontWeights.gtWalsheimPro-semibold}",
           "fontSize": "{fontSize.52}",
           "lineHeight": "{lineHeights.56}",
           "letterSpacing": "{letterspacing.neg2}"
@@ -837,8 +837,8 @@
     "3xl": {
       "medium": {
         "value": {
-          "fontFamily": "{fontFamily.gtWalsheimPro}",
-          "fontWeight": "{fontWeight.500}",
+          "fontFamily": "{fontFamilies.gtWalsheimPro}",
+          "fontWeight": "{fontWeights.gtWalsheimPro-medium}",
           "fontSize": "{fontSize.40}",
           "lineHeight": "{lineHeights.48}",
           "letterSpacing": "{letterspacing.neg2}"
@@ -847,8 +847,8 @@
       },
       "semibold": {
         "value": {
-          "fontFamily": "{fontFamily.gtWalsheimPro}",
-          "fontWeight": "{fontWeight.600}",
+          "fontFamily": "{fontFamilies.gtWalsheimPro}",
+          "fontWeight": "{fontWeights.gtWalsheimPro-semibold}",
           "fontSize": "{fontSize.40}",
           "lineHeight": "{lineHeights.48}",
           "letterSpacing": "{letterspacing.neg2}"
@@ -857,8 +857,8 @@
       },
       "bold": {
         "value": {
-          "fontFamily": "{fontFamily.gtWalsheimPro}",
-          "fontWeight": "{fontWeight.700}",
+          "fontFamily": "{fontFamilies.gtWalsheimPro}",
+          "fontWeight": "{fontWeights.gtWalsheimPro-bold}",
           "fontSize": "{fontSize.40}",
           "lineHeight": "{lineHeights.48}",
           "letterSpacing": "{letterspacing.neg2}"
@@ -1253,30 +1253,6 @@
         },
         "type": "typography"
       }
-    }
-  },
-  "fontFamily": {
-    "gtWalsheimPro": {
-      "value": "{fontFamilies.GT Walsheim Pro}",
-      "type": "fontFamilies"
-    }
-  },
-  "fontWeight": {
-    "400": {
-      "value": "{fontWeights.400}",
-      "type": "fontWeights"
-    },
-    "500": {
-      "value": "{fontWeights.500}",
-      "type": "fontWeights"
-    },
-    "600": {
-      "value": "{fontWeights.600}",
-      "type": "fontWeights"
-    },
-    "700": {
-      "value": "{fontWeights.700}",
-      "type": "fontWeights"
     }
   }
 }
