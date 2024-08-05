@@ -739,7 +739,7 @@
     "xl": {
       "medium": {
         "value": {
-          "fontFamily": "{fontFamily.gtWalsheimPro}",
+          "fontFamily": "{font.gtWalsheimPro}",
           "fontWeight": "{fontWeight.500}",
           "fontSize": "{fontSize.64}",
           "lineHeight": "{lineHeights.68}",
@@ -749,7 +749,7 @@
       },
       "semibold": {
         "value": {
-          "fontFamily": "{fontFamily.gtWalsheimPro}",
+          "fontFamily": "{font.gtWalsheimPro}",
           "fontWeight": "{fontWeights.700}",
           "fontSize": "{fontSize.64}",
           "lineHeight": "{lineHeights.68}",
@@ -759,7 +759,7 @@
       },
       "bold": {
         "value": {
-          "fontFamily": "{fontFamily.gtWalsheimPro}",
+          "fontFamily": "{font.gtWalsheimPro}",
           "fontWeight": "{fontWeights.900}",
           "fontSize": "{fontSize.64}",
           "lineHeight": "{lineHeights.68}",
@@ -771,7 +771,7 @@
     "lg": {
       "medium": {
         "value": {
-          "fontFamily": "{fontFamily.gtWalsheimPro}",
+          "fontFamily": "{font.gtWalsheimPro}",
           "fontWeight": "{fontWeights.500}",
           "fontSize": "{fontSize.52}",
           "lineHeight": "{lineHeights.56}",
@@ -781,7 +781,7 @@
       },
       "semibold": {
         "value": {
-          "fontFamily": "{fontFamily.gtWalsheimPro}",
+          "fontFamily": "{font.gtWalsheimPro}",
           "fontWeight": "{fontWeights.700}",
           "fontSize": "{fontSize.52}",
           "lineHeight": "{lineHeights.56}",
@@ -791,7 +791,7 @@
       },
       "bold": {
         "value": {
-          "fontFamily": "{fontFamily.gtWalsheimPro}",
+          "fontFamily": "{font.gtWalsheimPro}",
           "fontWeight": "{fontWeights.900}",
           "fontSize": "{fontSize.52}",
           "lineHeight": "{lineHeights.56}",
@@ -803,8 +803,8 @@
     "sm": {
       "medium": {
         "value": {
-          "fontFamily": "{fontFamilies.gtWalsheimPro}",
-          "fontWeight": "{fontWeights.gtWalsheimPro-medium}",
+          "fontFamily": "{font.gtWalsheimPro}",
+          "fontWeight": "{fontWeights.500}",
           "fontSize": "{fontSize.44}",
           "lineHeight": "{lineHeights.48}",
           "letterSpacing": "{letterspacing.neg2}"
@@ -813,8 +813,8 @@
       },
       "semibold": {
         "value": {
-          "fontFamily": "{fontFamilies.gtWalsheimPro}",
-          "fontWeight": "{fontWeights.gtWalsheimPro-semibold}",
+          "fontFamily": "{font.gtWalsheimPro}",
+          "fontWeight": "{fontWeights.700}",
           "fontSize": "{fontSize.44}",
           "lineHeight": "{lineHeights.48}",
           "letterSpacing": "{letterspacing.neg2}"
@@ -823,8 +823,8 @@
       },
       "bold": {
         "value": {
-          "fontFamily": "{fontFamilies.gtWalsheimPro}",
-          "fontWeight": "{fontWeights.gtWalsheimPro-semibold}",
+          "fontFamily": "{font.gtWalsheimPro}",
+          "fontWeight": "{fontWeights.900}",
           "fontSize": "{fontSize.44}",
           "lineHeight": "{lineHeights.48}",
           "letterSpacing": "{letterspacing.neg2}"
@@ -837,7 +837,7 @@
     "3xl": {
       "medium": {
         "value": {
-          "fontFamily": "{fontFamily.gtWalsheimPro}",
+          "fontFamily": "{font.gtWalsheimPro}",
           "fontWeight": "{fontWeight.500}",
           "fontSize": "{fontSize.40}",
           "lineHeight": "{lineHeights.48}",
@@ -847,8 +847,8 @@
       },
       "semibold": {
         "value": {
-          "fontFamily": "{fontFamily.gtWalsheimPro}",
-          "fontWeight": "{fontWeight.600}",
+          "fontFamily": "{font.gtWalsheimPro}",
+          "fontWeight": "{fontWeights.700}",
           "fontSize": "{fontSize.40}",
           "lineHeight": "{lineHeights.48}",
           "letterSpacing": "{letterspacing.neg2}"
@@ -857,8 +857,8 @@
       },
       "bold": {
         "value": {
-          "fontFamily": "{fontFamily.gtWalsheimPro}",
-          "fontWeight": "{fontWeight.700}",
+          "fontFamily": "{font.gtWalsheimPro}",
+          "fontWeight": "{fontWeights.900}",
           "fontSize": "{fontSize.40}",
           "lineHeight": "{lineHeights.48}",
           "letterSpacing": "{letterspacing.neg2}"
@@ -869,8 +869,8 @@
     "2xl": {
       "medium": {
         "value": {
-          "fontFamily": "{fontFamilies.gtWalsheimPro}",
-          "fontWeight": "{fontWeights.gtWalsheimPro-medium}",
+          "fontFamily": "{font.gtWalsheimPro}",
+          "fontWeight": "{fontWeights.500}",
           "fontSize": "{fontSize.32}",
           "lineHeight": "{lineHeights.40}",
           "letterSpacing": "{letterspacing.neg2}"
@@ -879,8 +879,8 @@
       },
       "semibold": {
         "value": {
-          "fontFamily": "{fontFamilies.gtWalsheimPro}",
-          "fontWeight": "{fontWeights.gtWalsheimPro-semibold}",
+          "fontFamily": "{font.gtWalsheimPro}",
+          "fontWeight": "{fontWeights.700}",
           "fontSize": "{fontSize.32}",
           "lineHeight": "{lineHeights.40}",
           "letterSpacing": "{letterspacing.neg2}"
@@ -889,8 +889,8 @@
       },
       "bold": {
         "value": {
-          "fontFamily": "{fontFamilies.gtWalsheimPro}",
-          "fontWeight": "{fontWeights.gtWalsheimPro-semibold}",
+          "fontFamily": "{font.gtWalsheimPro}",
+          "fontWeight": "{fontWeights.900}",
           "fontSize": "{fontSize.32}",
           "lineHeight": "{lineHeights.40}",
           "letterSpacing": "{letterspacing.neg2}"
@@ -901,8 +901,8 @@
     "xl": {
       "medium": {
         "value": {
-          "fontFamily": "{fontFamilies.gtWalsheimPro}",
-          "fontWeight": "{fontWeights.gtWalsheimPro-medium}",
+          "fontFamily": "{font.gtWalsheimPro}",
+          "fontWeight": "{fontWeights.500}",
           "fontSize": "{fontSize.28}",
           "lineHeight": "{lineHeights.36}",
           "letterSpacing": "{letterspacing.neg2}"
@@ -911,8 +911,8 @@
       },
       "semibold": {
         "value": {
-          "fontFamily": "{fontFamilies.gtWalsheimPro}",
-          "fontWeight": "{fontWeights.gtWalsheimPro-semibold}",
+          "fontFamily": "{font.gtWalsheimPro}",
+          "fontWeight": "{fontWeights.700}",
           "fontSize": "{fontSize.28}",
           "lineHeight": "{lineHeights.36}",
           "letterSpacing": "{letterspacing.neg2}"
@@ -921,8 +921,8 @@
       },
       "bold": {
         "value": {
-          "fontFamily": "{fontFamilies.gtWalsheimPro}",
-          "fontWeight": "{fontWeights.gtWalsheimPro-semibold}",
+          "fontFamily": "{font.gtWalsheimPro}",
+          "fontWeight": "{fontWeights.900}",
           "fontSize": "{fontSize.28}",
           "lineHeight": "{lineHeights.36}",
           "letterSpacing": "{letterspacing.neg2}"
@@ -933,8 +933,8 @@
     "lg": {
       "medium": {
         "value": {
-          "fontFamily": "{fontFamilies.gtWalsheimPro}",
-          "fontWeight": "{fontWeights.gtWalsheimPro-medium}",
+          "fontFamily": "{font.gtWalsheimPro}",
+          "fontWeight": "{fontWeights.500}",
           "fontSize": "{fontSize.24}",
           "lineHeight": "{lineHeights.32}",
           "letterSpacing": "{letterspacing.neg1}"
@@ -943,8 +943,8 @@
       },
       "semibold": {
         "value": {
-          "fontFamily": "{fontFamilies.gtWalsheimPro}",
-          "fontWeight": "{fontWeights.gtWalsheimPro-semibold}",
+          "fontFamily": "{font.gtWalsheimPro}",
+          "fontWeight": "{fontWeights.700}",
           "fontSize": "{fontSize.24}",
           "lineHeight": "{lineHeights.32}",
           "letterSpacing": "{letterspacing.neg1}"
@@ -953,8 +953,8 @@
       },
       "bold": {
         "value": {
-          "fontFamily": "{fontFamilies.gtWalsheimPro}",
-          "fontWeight": "{fontWeights.gtWalsheimPro-semibold}",
+          "fontFamily": "{font.gtWalsheimPro}",
+          "fontWeight": "{fontWeights.900}",
           "fontSize": "{fontSize.28}",
           "lineHeight": "{lineHeights.36}",
           "letterSpacing": "{letterspacing.neg2}"
@@ -965,8 +965,8 @@
     "md": {
       "medium": {
         "value": {
-          "fontFamily": "{fontFamilies.gtWalsheimPro}",
-          "fontWeight": "{fontWeights.gtWalsheimPro-medium}",
+          "fontFamily": "{font.gtWalsheimPro}",
+          "fontWeight": "{fontWeights.500}",
           "fontSize": "{fontSize.20}",
           "lineHeight": "{lineHeights.28}",
           "letterSpacing": "{letterspacing.0}"
@@ -975,8 +975,8 @@
       },
       "semibold": {
         "value": {
-          "fontFamily": "{fontFamilies.gtWalsheimPro}",
-          "fontWeight": "{fontWeights.gtWalsheimPro-semibold}",
+          "fontFamily": "{font.gtWalsheimPro}",
+          "fontWeight": "{fontWeights.700}",
           "fontSize": "{fontSize.20}",
           "lineHeight": "{lineHeights.28}",
           "letterSpacing": "{letterspacing.0}"
@@ -985,8 +985,8 @@
       },
       "bold": {
         "value": {
-          "fontFamily": "{fontFamilies.gtWalsheimPro}",
-          "fontWeight": "{fontWeights.gtWalsheimPro-semibold}",
+          "fontFamily": "{font.gtWalsheimPro}",
+          "fontWeight": "{fontWeights.900}",
           "fontSize": "{fontSize.20}",
           "lineHeight": "{lineHeights.28}",
           "letterSpacing": "{letterspacing.0}"
@@ -997,8 +997,8 @@
     "sm": {
       "medium": {
         "value": {
-          "fontFamily": "{fontFamilies.gtWalsheimPro}",
-          "fontWeight": "{fontWeights.gtWalsheimPro-medium}",
+          "fontFamily": "{font.gtWalsheimPro}",
+          "fontWeight": "{fontWeights.500}",
           "fontSize": "{fontSize.18}",
           "lineHeight": "{lineHeights.20}",
           "letterSpacing": "{letterspacing.0}"
@@ -1007,8 +1007,8 @@
       },
       "semibold": {
         "value": {
-          "fontFamily": "{fontFamilies.gtWalsheimPro}",
-          "fontWeight": "{fontWeights.gtWalsheimPro-semibold}",
+          "fontFamily": "{font.gtWalsheimPro}",
+          "fontWeight": "{fontWeights.700}",
           "fontSize": "{fontSize.18}",
           "lineHeight": "{lineHeights.20}",
           "letterSpacing": "{letterspacing.0}"
@@ -1017,8 +1017,8 @@
       },
       "bold": {
         "value": {
-          "fontFamily": "{fontFamilies.gtWalsheimPro}",
-          "fontWeight": "{fontWeights.gtWalsheimPro-semibold}",
+          "fontFamily": "{font.gtWalsheimPro}",
+          "fontWeight": "{fontWeights.900}",
           "fontSize": "{fontSize.18}",
           "lineHeight": "{lineHeights.20}",
           "letterSpacing": "{letterspacing.0}"
@@ -1031,8 +1031,8 @@
     "lg": {
       "regular": {
         "value": {
-          "fontFamily": "{fontFamilies.gtWalsheimPro}",
-          "fontWeight": "{fontWeights.gtWalsheimPro-regular}",
+          "fontFamily": "{font.gtWalsheimPro}",
+          "fontWeight": "{fontWeights.400}",
           "fontSize": "{fontSize.18}",
           "lineHeight": "{lineHeights.28}",
           "letterSpacing": "{letterspacing.0}"
@@ -1041,8 +1041,8 @@
       },
       "medium": {
         "value": {
-          "fontFamily": "{fontFamilies.gtWalsheimPro}",
-          "fontWeight": "{fontWeights.gtWalsheimPro-medium}",
+          "fontFamily": "{font.gtWalsheimPro}",
+          "fontWeight": "{fontWeights.500}",
           "fontSize": "{fontSize.18}",
           "lineHeight": "{lineHeights.28}",
           "letterSpacing": "{letterspacing.0}"
@@ -1051,8 +1051,8 @@
       },
       "semibold": {
         "value": {
-          "fontFamily": "{fontFamilies.gtWalsheimPro}",
-          "fontWeight": "{fontWeights.gtWalsheimPro-semibold}",
+          "fontFamily": "{font.gtWalsheimPro}",
+          "fontWeight": "{fontWeights.700}",
           "fontSize": "{fontSize.18}",
           "lineHeight": "{lineHeights.28}",
           "letterSpacing": "{letterspacing.0}"
@@ -1063,8 +1063,8 @@
     "md": {
       "regular": {
         "value": {
-          "fontFamily": "{fontFamilies.gtWalsheimPro}",
-          "fontWeight": "{fontWeights.gtWalsheimPro-regular}",
+          "fontFamily": "{font.gtWalsheimPro}",
+          "fontWeight": "{fontWeights.400}",
           "fontSize": "{fontSize.16}",
           "lineHeight": "{lineHeights.24}",
           "letterSpacing": "{letterspacing.0}"
@@ -1073,8 +1073,8 @@
       },
       "medium": {
         "value": {
-          "fontFamily": "{fontFamilies.gtWalsheimPro}",
-          "fontWeight": "{fontWeights.gtWalsheimPro-medium}",
+          "fontFamily": "{font.gtWalsheimPro}",
+          "fontWeight": "{fontWeights.500}",
           "fontSize": "{fontSize.16}",
           "lineHeight": "{lineHeights.24}",
           "letterSpacing": "{letterspacing.0}"
@@ -1083,8 +1083,8 @@
       },
       "semibold": {
         "value": {
-          "fontFamily": "{fontFamilies.gtWalsheimPro}",
-          "fontWeight": "{fontWeights.gtWalsheimPro-semibold}",
+          "fontFamily": "{font.gtWalsheimPro}",
+          "fontWeight": "{fontWeights.700}",
           "fontSize": "{fontSize.16}",
           "lineHeight": "{lineHeights.24}",
           "letterSpacing": "{letterspacing.0}"
@@ -1095,8 +1095,8 @@
     "sm": {
       "regular": {
         "value": {
-          "fontFamily": "{fontFamilies.gtWalsheimPro}",
-          "fontWeight": "{fontWeights.gtWalsheimPro-regular}",
+          "fontFamily": "{font.gtWalsheimPro}",
+          "fontWeight": "{fontWeights.400}",
           "fontSize": "{fontSize.14}",
           "lineHeight": "{lineHeights.20}",
           "letterSpacing": "{letterspacing.0}"
@@ -1105,8 +1105,8 @@
       },
       "medium": {
         "value": {
-          "fontFamily": "{fontFamilies.gtWalsheimPro}",
-          "fontWeight": "{fontWeights.gtWalsheimPro-medium}",
+          "fontFamily": "{font.gtWalsheimPro}",
+          "fontWeight": "{fontWeights.500}",
           "fontSize": "{fontSize.14}",
           "lineHeight": "{lineHeights.20}",
           "letterSpacing": "{letterspacing.0}"
@@ -1115,8 +1115,8 @@
       },
       "semibold": {
         "value": {
-          "fontFamily": "{fontFamilies.gtWalsheimPro}",
-          "fontWeight": "{fontWeights.gtWalsheimPro-semibold}",
+          "fontFamily": "{font.gtWalsheimPro}",
+          "fontWeight": "{fontWeights.700}",
           "fontSize": "{fontSize.14}",
           "lineHeight": "{lineHeights.20}",
           "letterSpacing": "{letterspacing.0}"
@@ -1129,8 +1129,8 @@
     "xl": {
       "regular": {
         "value": {
-          "fontFamily": "{fontFamilies.gtWalsheimPro}",
-          "fontWeight": "{fontWeights.gtWalsheimPro-regular}",
+          "fontFamily": "{font.gtWalsheimPro}",
+          "fontWeight": "{fontWeights.400}",
           "fontSize": "{fontSize.18}",
           "lineHeight": "{lineHeights.20}",
           "letterSpacing": "{letterspacing.0}"
@@ -1139,8 +1139,8 @@
       },
       "medium": {
         "value": {
-          "fontFamily": "{fontFamilies.gtWalsheimPro}",
-          "fontWeight": "{fontWeights.gtWalsheimPro-medium}",
+          "fontFamily": "{font.gtWalsheimPro}",
+          "fontWeight": "{fontWeights.500}",
           "fontSize": "{fontSize.18}",
           "lineHeight": "{lineHeights.20}",
           "letterSpacing": "{letterspacing.0}"
@@ -1149,8 +1149,8 @@
       },
       "semibold": {
         "value": {
-          "fontFamily": "{fontFamilies.gtWalsheimPro}",
-          "fontWeight": "{fontWeights.gtWalsheimPro-semibold}",
+          "fontFamily": "{font.gtWalsheimPro}",
+          "fontWeight": "{fontWeights.700}",
           "fontSize": "{fontSize.18}",
           "lineHeight": "{lineHeights.20}",
           "letterSpacing": "{letterspacing.0}"
@@ -1161,8 +1161,8 @@
     "lg": {
       "regular": {
         "value": {
-          "fontFamily": "{fontFamilies.gtWalsheimPro}",
-          "fontWeight": "{fontWeights.gtWalsheimPro-regular}",
+          "fontFamily": "{font.gtWalsheimPro}",
+          "fontWeight": "{fontWeights.400}",
           "fontSize": "{fontSize.16}",
           "lineHeight": "{lineHeights.20}",
           "letterSpacing": "{letterspacing.0}"
@@ -1171,8 +1171,8 @@
       },
       "medium": {
         "value": {
-          "fontFamily": "{fontFamilies.gtWalsheimPro}",
-          "fontWeight": "{fontWeights.gtWalsheimPro-medium}",
+          "fontFamily": "{font.gtWalsheimPro}",
+          "fontWeight": "{fontWeights.500}",
           "fontSize": "{fontSize.16}",
           "lineHeight": "{lineHeights.20}",
           "letterSpacing": "{letterspacing.0}"
@@ -1181,8 +1181,8 @@
       },
       "semibold": {
         "value": {
-          "fontFamily": "{fontFamilies.gtWalsheimPro}",
-          "fontWeight": "{fontWeights.gtWalsheimPro-semibold}",
+          "fontFamily": "{font.gtWalsheimPro}",
+          "fontWeight": "{fontWeights.700}",
           "fontSize": "{fontSize.16}",
           "lineHeight": "{lineHeights.20}",
           "letterSpacing": "{letterspacing.0}"
@@ -1193,8 +1193,8 @@
     "md": {
       "regular": {
         "value": {
-          "fontFamily": "{fontFamilies.gtWalsheimPro}",
-          "fontWeight": "{fontWeights.gtWalsheimPro-regular}",
+          "fontFamily": "{font.gtWalsheimPro}",
+          "fontWeight": "{fontWeights.400}",
           "fontSize": "{fontSize.14}",
           "lineHeight": "{lineHeights.18}",
           "letterSpacing": "{letterspacing.0}"
@@ -1203,8 +1203,8 @@
       },
       "medium": {
         "value": {
-          "fontFamily": "{fontFamilies.gtWalsheimPro}",
-          "fontWeight": "{fontWeights.gtWalsheimPro-medium}",
+          "fontFamily": "{font.gtWalsheimPro}",
+          "fontWeight": "{fontWeights.500}",
           "fontSize": "{fontSize.14}",
           "lineHeight": "{lineHeights.18}",
           "letterSpacing": "{letterspacing.0}"
@@ -1213,8 +1213,8 @@
       },
       "semibold": {
         "value": {
-          "fontFamily": "{fontFamilies.gtWalsheimPro}",
-          "fontWeight": "{fontWeights.gtWalsheimPro-semibold}",
+          "fontFamily": "{font.gtWalsheimPro}",
+          "fontWeight": "{fontWeights.700}",
           "fontSize": "{fontSize.14}",
           "lineHeight": "{lineHeights.18}",
           "letterSpacing": "{letterspacing.0}"
@@ -1225,8 +1225,8 @@
     "sm": {
       "regular": {
         "value": {
-          "fontFamily": "{fontFamilies.gtWalsheimPro}",
-          "fontWeight": "{fontWeights.gtWalsheimPro-regular}",
+          "fontFamily": "{font.gtWalsheimPro}",
+          "fontWeight": "{fontWeights.400}",
           "fontSize": "{fontSize.12}",
           "lineHeight": "{lineHeights.16}",
           "letterSpacing": "{letterspacing.0}"
@@ -1235,8 +1235,8 @@
       },
       "medium": {
         "value": {
-          "fontFamily": "{fontFamilies.gtWalsheimPro}",
-          "fontWeight": "{fontWeights.gtWalsheimPro-medium}",
+          "fontFamily": "{font.gtWalsheimPro}",
+          "fontWeight": "{fontWeights.500}",
           "fontSize": "{fontSize.12}",
           "lineHeight": "{lineHeights.16}",
           "letterSpacing": "{letterspacing.0}"
@@ -1245,8 +1245,8 @@
       },
       "semibold": {
         "value": {
-          "fontFamily": "{fontFamilies.gtWalsheimPro}",
-          "fontWeight": "{fontWeights.gtWalsheimPro-semibold}",
+          "fontFamily": "{font.gtWalsheimPro}",
+          "fontWeight": "{fontWeights.700}",
           "fontSize": "{fontSize.12}",
           "lineHeight": "{lineHeights.16}",
           "letterSpacing": "{letterspacing.0}"
@@ -1255,7 +1255,7 @@
       }
     }
   },
-  "fontFamily": {
+  "font": {
     "gtWalsheimPro": {
       "value": "{fontFamilies.GT Walsheim Pro}",
       "type": "fontFamilies"
@@ -1276,6 +1276,10 @@
     },
     "700": {
       "value": "{fontWeights.700}",
+      "type": "fontWeights"
+    },
+    "900": {
+      "value": "{fontWeights.900}",
       "type": "fontWeights"
     }
   }
