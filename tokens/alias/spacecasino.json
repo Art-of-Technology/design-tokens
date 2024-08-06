@@ -184,11 +184,11 @@
     },
     "border": {
       "rest": {
-        "value": "#",
+        "value": "{colors.grayLight.3}",
         "type": "color"
       },
       "hover": {
-        "value": "#",
+        "value": "{colors.grayLight.5}",
         "type": "color"
       },
       "subtle": {
@@ -310,6 +310,10 @@
         "type": "color"
       },
       "onPrimary": {
+        "value": "{colors.grayLight.1}",
+        "type": "color"
+      },
+      "inverse": {
         "value": "{colors.grayLight.1}",
         "type": "color"
       },
@@ -560,6 +564,22 @@
       "white": {
         "value": "{colors.common.white}",
         "type": "color"
+      }
+    },
+    "brand": {
+      "line": {
+        "line": {
+          "value": "{brandcolors.line}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{brandcolors.line-hover}",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "{brandcolors.line-pressed}",
+          "type": "color"
+        }
       }
     }
   },
