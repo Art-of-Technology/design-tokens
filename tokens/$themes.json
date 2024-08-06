@@ -14,8 +14,8 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "global/core": "source",
-      "alias/spacecasino": "enabled",
-      "themes/spaceLight": "enabled"
+      "themes/spaceLight": "enabled",
+      "alias/space": "enabled"
     },
     "group": "mapped"
   },
@@ -25,8 +25,8 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "global/core": "source",
-      "alias/spacecasino": "enabled",
-      "themes/spaceDark": "enabled"
+      "themes/spaceDark": "enabled",
+      "alias/space": "enabled"
     },
     "group": "mapped"
   },
@@ -36,7 +36,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "global/core": "source",
-      "alias/spacecasino": "enabled"
+      "alias/space": "enabled"
     },
     "group": "brand"
   }

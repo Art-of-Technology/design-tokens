@@ -1899,6 +1899,10 @@
       "value": "320px",
       "type": "sizing"
     },
+    "375": {
+      "value": "375px",
+      "type": "sizing"
+    },
     "384": {
       "value": "384px",
       "type": "sizing"
@@ -1921,6 +1925,10 @@
     },
     "1280": {
       "value": "1280px",
+      "type": "sizing"
+    },
+    "1440": {
+      "value": "1440px",
       "type": "sizing"
     },
     "1536": {
@@ -2013,6 +2021,18 @@
     }
   },
   "fontWeights": {
+    "100": {
+      "value": "100",
+      "type": "fontWeights"
+    },
+    "200": {
+      "value": "200",
+      "type": "fontWeights"
+    },
+    "300": {
+      "value": "300",
+      "type": "fontWeights"
+    },
     "400": {
       "value": "400",
       "type": "fontWeights"
@@ -2084,7 +2104,7 @@
       "type": "lineHeights"
     }
   },
-  "letterspacing": {
+  "letterSpacing": {
     "0": {
       "value": "0%",
       "type": "letterSpacing"
@@ -2156,7 +2176,7 @@
       "type": "fontSizes"
     }
   },
-  "brandcolors": {
+  "brandColors": {
     "line": {
       "value": "#06C755",
       "type": "color"
