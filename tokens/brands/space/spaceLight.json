@@ -294,7 +294,7 @@
           "value": "{colors.greenLight.9}",
           "type": "color"
         },
-        "successEmphasis": {
+        "success-emphasis": {
           "value": "{colors.greenLight.12}",
           "type": "color"
         },
@@ -302,7 +302,7 @@
           "value": "{colors.orangeLight.9}",
           "type": "color"
         },
-        "warningEmphasis": {
+        "warning-emphasis": {
           "value": "{colors.orangeLight.12}",
           "type": "color"
         },
@@ -325,7 +325,7 @@
         "value": "{colors.grayLight.12}",
         "type": "color"
       },
-      "onPrimary": {
+      "on-primary": {
         "value": "{colors.grayLight.1}",
         "type": "color"
       },
@@ -337,7 +337,7 @@
         "value": "{colors.grayLight.11}",
         "type": "color"
       },
-      "onSubtle": {
+      "on-subtle": {
         "value": "{colors.grayLight.11}",
         "type": "color"
       },
@@ -349,15 +349,15 @@
         "value": "{colors.grayLight.8}",
         "type": "color"
       },
-      "onInvert": {
+      "on-invert": {
         "value": "#fff",
         "type": "color"
       },
-      "onImage": {
+      "on-image": {
         "value": "#fff",
         "type": "color"
       },
-      "onInput": {
+      "on-input": {
         "value": "#fff",
         "type": "color"
       },
@@ -443,15 +443,15 @@
         "value": "{colors.grayLight.1}",
         "type": "color"
       },
-      "onSubtle": {
+      "on-subtle": {
         "value": "#fff",
         "type": "color"
       },
-      "onImage": {
+      "on-image": {
         "value": "#fff",
         "type": "color"
       },
-      "onInvert": {
+      "on-invert": {
         "value": "#fff",
         "type": "color"
       },
@@ -459,11 +459,11 @@
         "value": "#fff",
         "type": "color"
       },
-      "onPrimary": {
+      "on-primary": {
         "value": "{colors.grayLight.1}",
         "type": "color"
       },
-      "onSecondary": {
+      "on-secondary": {
         "value": "{colors.grayLight.12}",
         "type": "color"
       },
