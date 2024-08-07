@@ -2,11 +2,11 @@
   "tokenSetOrder": [
     "global",
     "global/core",
-    "brands/space/spaceDark",
-    "brands/space/spaceLight",
-    "brands/xtreme/xtremeDark",
-    "brands/xtreme/xtremeLight",
     "alias/space",
-    "alias/xtreme"
+    "alias/xtreme",
+    "brands/space/spaceLight",
+    "brands/space/spaceDark",
+    "brands/xtreme/xtremeLight",
+    "brands/xtreme/xtremeDark"
   ]
 }

@@ -1609,6 +1609,20 @@
         "value": "#000",
         "type": "color"
       }
+    },
+    "brandColors": {
+      "line": {
+        "value": "#06C755",
+        "type": "color"
+      },
+      "line-hover": {
+        "value": "#05B34D",
+        "type": "color"
+      },
+      "line-pressed": {
+        "value": "#048B3C",
+        "type": "color"
+      }
     }
   },
   "spacing": {
