@@ -1,43 +1,47 @@
 [
   {
-    "id": "d8b485703e41323b51992469a5c5f1ad36ec4d67",
-    "name": "core",
+    "id": "f7cb8582c78780efe83096e09a34bd25fca6629b",
+    "name": "space light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "global/core": "source"
-    },
-    "group": "global"
-  },
-  {
-    "id": "f49e8435365f713ffbe947654ceac6aab2ea4e5d",
-    "name": "spaceLight",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "global/core": "source",
-      "themes/spaceLight": "enabled",
-      "alias/space": "enabled"
+      "global/core": "enabled",
+      "alias/space": "enabled",
+      "brands/space/spaceLight": "enabled"
     },
     "group": "mapped"
   },
   {
-    "id": "f5e7ad3b029ac8749f3de7b6b2fc3fd5f8aadf2b",
-    "name": "spaceDark",
+    "id": "d3dacda846778b56cdc76d309ab0344d153f7de7",
+    "name": "space dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
+      "global": "enabled",
       "global/core": "source",
-      "themes/spaceDark": "enabled",
-      "alias/space": "enabled"
+      "alias/space": "enabled",
+      "brands/space/spaceDark": "enabled"
     },
     "group": "mapped"
   },
   {
-    "id": "00217b0401452f7aa2c082285f759e08207d8e83",
-    "name": "spacecasino",
+    "id": "c75e939bbdcf98a726b32d3f412792d6a3a3f30b",
+    "name": "xtreme light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "global/core": "source",
-      "alias/space": "enabled"
+      "global/core": "enabled",
+      "brands/xtreme/xtremeLight": "enabled",
+      "alias/xtreme": "enabled"
     },
-    "group": "brand"
+    "group": "mapped"
+  },
+  {
+    "id": "17aedf589bb72f502196f6b9f32e63439e99b308",
+    "name": "xtreme dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "global/core": "enabled",
+      "brands/xtreme/xtremeDark": "enabled",
+      "alias/xtreme": "enabled"
+    },
+    "group": "mapped"
   }
 ]

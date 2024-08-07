@@ -1,9 +1,9 @@
 {
-  "theme": {
+  "light": {
     "bg": {
       "page": {
         "background": {
-          "value": "#",
+          "value": "#fff",
           "type": "color"
         }
       },
@@ -31,15 +31,15 @@
       },
       "surface": {
         "raised": {
-          "value": "#",
+          "value": "#fff",
           "type": "color"
         },
         "bold": {
-          "value": "#",
+          "value": "#fff",
           "type": "color"
         },
         "strong": {
-          "value": "#",
+          "value": "#fff",
           "type": "color"
         },
         "subtle": {
@@ -83,7 +83,7 @@
           "type": "color"
         },
         "focus": {
-          "value": "#",
+          "value": "#fff",
           "type": "color"
         },
         "disabled": {
@@ -147,21 +147,21 @@
       },
       "info": {
         "normal": {
-          "value": "#",
+          "value": "{colors.blueLight.9}",
           "type": "color"
         },
         "hover": {
-          "value": "#",
+          "value": "{colors.blueLight.10}",
           "type": "color"
         },
         "muted": {
-          "value": "#",
+          "value": "{colors.blueLight.11}",
           "type": "color"
         }
       },
       "action": {
         "active": {
-          "value": "#",
+          "value": "#fff",
           "type": "color"
         },
         "hover": {
@@ -200,7 +200,7 @@
         "type": "color"
       },
       "container": {
-        "value": "#",
+        "value": "#fff",
         "type": "color"
       },
       "disabled": {
@@ -225,7 +225,7 @@
           "type": "color"
         },
         "focus": {
-          "value": "#",
+          "value": "#fff",
           "type": "color"
         },
         "disabled": {
@@ -338,15 +338,15 @@
         "type": "color"
       },
       "onInvert": {
-        "value": "#",
+        "value": "#fff",
         "type": "color"
       },
       "onImage": {
-        "value": "#",
+        "value": "#fff",
         "type": "color"
       },
       "onInput": {
-        "value": "#",
+        "value": "#fff",
         "type": "color"
       },
       "success": {
@@ -371,7 +371,7 @@
           "type": "color"
         },
         "focus": {
-          "value": "#",
+          "value": "#fff",
           "type": "color"
         },
         "pressed": {
@@ -379,7 +379,7 @@
           "type": "color"
         },
         "disabled": {
-          "value": "#",
+          "value": "#fff",
           "type": "color"
         },
         "subtle": {
@@ -397,7 +397,7 @@
           "type": "color"
         },
         "focus": {
-          "value": "#",
+          "value": "#fff",
           "type": "color"
         },
         "pressed": {
@@ -405,7 +405,7 @@
           "type": "color"
         },
         "disabled": {
-          "value": "#",
+          "value": "#fff",
           "type": "color"
         },
         "subtle": {
@@ -432,19 +432,19 @@
         "type": "color"
       },
       "onSubtle": {
-        "value": "#",
+        "value": "#fff",
         "type": "color"
       },
       "onImage": {
-        "value": "#",
+        "value": "#fff",
         "type": "color"
       },
       "onInvert": {
-        "value": "#",
+        "value": "#fff",
         "type": "color"
       },
       "inactive": {
-        "value": "#",
+        "value": "#fff",
         "type": "color"
       },
       "onPrimary": {
@@ -473,21 +473,21 @@
           "type": "color"
         },
         "info": {
-          "value": "#",
+          "value": "{colors.blueLight.9}",
           "type": "color"
         }
       },
       "input": {
         "rest": {
-          "value": "#",
+          "value": "#fff",
           "type": "color"
         },
         "hover": {
-          "value": "#",
+          "value": "#fff",
           "type": "color"
         },
         "focus": {
-          "value": "#",
+          "value": "#fff",
           "type": "color"
         }
       },
@@ -573,15 +573,15 @@
     "brand": {
       "line": {
         "line": {
-          "value": "{brandColors.line}",
+          "value": "{colors.brandColors.line}",
           "type": "color"
         },
         "hover": {
-          "value": "{brandColors.line-hover}",
+          "value": "{colors.brandColors.line-hover}",
           "type": "color"
         },
         "pressed": {
-          "value": "{brandColors.line-pressed}",
+          "value": "{colors.brandColors.line-pressed}",
           "type": "color"
         }
       }
