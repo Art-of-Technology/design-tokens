@@ -530,7 +530,7 @@
         }
       }
     },
-    "borderRadius": {
+    "border-radius": {
       "none": {
         "value": "{borderRadius.0}",
         "type": "borderRadius"
@@ -568,7 +568,7 @@
         "type": "borderRadius"
       }
     },
-    "borderWidth": {
+    "border-width": {
       "none": {
         "value": "{borderWidth.0}",
         "type": "borderWidth"

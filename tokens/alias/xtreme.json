@@ -530,74 +530,72 @@
         }
       }
     },
-    "border": {
-      "radius": {
-        "none": {
-          "value": "{borderRadius.0}",
-          "type": "borderRadius"
-        },
-        "xs": {
-          "value": "{borderRadius.2}",
-          "type": "borderRadius"
-        },
-        "sm": {
-          "value": "{borderRadius.4}",
-          "type": "borderRadius"
-        },
-        "md": {
-          "value": "{borderRadius.6}",
-          "type": "borderRadius"
-        },
-        "lg": {
-          "value": "{borderRadius.8}",
-          "type": "borderRadius"
-        },
-        "xl": {
-          "value": "{borderRadius.12}",
-          "type": "borderRadius"
-        },
-        "2xl": {
-          "value": "{borderRadius.16}",
-          "type": "borderRadius"
-        },
-        "3xl": {
-          "value": "{borderRadius.24}",
-          "type": "borderRadius"
-        },
-        "full": {
-          "value": "{borderRadius.9999}",
-          "type": "borderRadius"
-        }
+    "border-radius": {
+      "none": {
+        "value": "{borderRadius.0}",
+        "type": "borderRadius"
       },
-      "width": {
-        "none": {
-          "value": "{borderWidth.0}",
-          "type": "borderWidth"
-        },
-        "xs": {
-          "value": "{borderWidth.50}",
-          "type": "borderWidth"
-        },
-        "sm": {
-          "value": "{borderWidth.100}",
-          "type": "borderWidth"
-        },
-        "md": {
-          "value": "{borderWidth.150}",
-          "type": "borderWidth"
-        },
-        "lg": {
-          "value": "{borderWidth.200}",
-          "type": "borderWidth"
-        },
-        "xl": {
-          "value": "{borderWidth.300}",
-          "type": "borderWidth"
-        },
-        "2xl": {
-          "value": "{borderWidth.400}",
-          "type": "borderWidth"
-        }
+      "xs": {
+        "value": "{borderRadius.2}",
+        "type": "borderRadius"
+      },
+      "sm": {
+        "value": "{borderRadius.4}",
+        "type": "borderRadius"
+      },
+      "md": {
+        "value": "{borderRadius.6}",
+        "type": "borderRadius"
+      },
+      "lg": {
+        "value": "{borderRadius.8}",
+        "type": "borderRadius"
+      },
+      "xl": {
+        "value": "{borderRadius.12}",
+        "type": "borderRadius"
+      },
+      "2xl": {
+        "value": "{borderRadius.16}",
+        "type": "borderRadius"
+      },
+      "3xl": {
+        "value": "{borderRadius.24}",
+        "type": "borderRadius"
+      },
+      "full": {
+        "value": "{borderRadius.9999}",
+        "type": "borderRadius"
+      }
+    },
+    "border-width": {
+      "none": {
+        "value": "{borderWidth.0}",
+        "type": "borderWidth"
+      },
+      "xs": {
+        "value": "{borderWidth.50}",
+        "type": "borderWidth"
+      },
+      "sm": {
+        "value": "{borderWidth.100}",
+        "type": "borderWidth"
+      },
+      "md": {
+        "value": "{borderWidth.150}",
+        "type": "borderWidth"
+      },
+      "lg": {
+        "value": "{borderWidth.200}",
+        "type": "borderWidth"
+      },
+      "xl": {
+        "value": "{borderWidth.300}",
+        "type": "borderWidth"
+      },
+      "2xl": {
+        "value": "{borderWidth.400}",
+        "type": "borderWidth"
       }
     },
     "size": {
