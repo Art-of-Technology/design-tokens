@@ -511,7 +511,7 @@
           "type": "color"
         },
         "placeholder": {
-          "value": "#",
+          "value": "#ffff",
           "type": "color"
         }
       },
