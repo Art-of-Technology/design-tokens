@@ -74,6 +74,10 @@
         }
       },
       "input": {
+        "default": {
+          "value": "{colors.common.white}",
+          "type": "color"
+        },
         "rest": {
           "value": "{colors.grayLight.1}",
           "type": "color"
@@ -233,7 +237,7 @@
       },
       "input": {
         "rest": {
-          "value": "{colors.grayLight.5}",
+          "value": "{colors.grayLight.7}",
           "type": "color"
         },
         "hover": {

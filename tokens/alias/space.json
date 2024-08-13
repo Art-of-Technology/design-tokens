@@ -566,6 +566,10 @@
       "full": {
         "value": "{borderRadius.9999}",
         "type": "borderRadius"
+      },
+      "default": {
+        "value": "{borderRadius.4}",
+        "type": "borderRadius"
       }
     },
     "border-width": {
