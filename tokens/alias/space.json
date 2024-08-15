@@ -568,7 +568,7 @@
         "type": "borderRadius"
       },
       "default": {
-        "value": "{borderRadius.4}",
+        "value": "{borderRadius.9999}",
         "type": "borderRadius"
       }
     },
