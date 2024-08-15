@@ -1,7 +1,6 @@
 {
   "tokenSetOrder": [
-    "global",
-    "global/core",
+    "core",
     "alias/space",
     "alias/xtreme",
     "brands/space/spaceLight",

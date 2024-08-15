@@ -439,7 +439,7 @@
             "fontFamily": "{space.font.primary}",
             "fontWeight": "{fontWeights.400}",
             "fontSize": "{fontSize.16}",
-            "lineHeight": "{lineHeights.16}",
+            "lineHeight": "{lineHeights.24}",
             "letterSpacing": "{letterSpacing.0}"
           },
           "type": "typography"
@@ -448,7 +448,7 @@
           "value": {
             "fontFamily": "{space.font.primary}",
             "fontWeight": "{fontWeights.500}",
-            "fontSize": "{fontSize.16}",
+            "fontSize": "{fontSize.24}",
             "lineHeight": "{lineHeights.16}",
             "letterSpacing": "{letterSpacing.0}"
           },
@@ -459,7 +459,7 @@
             "fontFamily": "{space.font.primary}",
             "fontWeight": "{fontWeights.700}",
             "fontSize": "{fontSize.16}",
-            "lineHeight": "{lineHeights.16}",
+            "lineHeight": "{lineHeights.24}",
             "letterSpacing": "{letterSpacing.0}"
           },
           "type": "typography"

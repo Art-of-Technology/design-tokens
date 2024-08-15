@@ -1,9 +1,9 @@
 {
-  "dark": {
+  "light": {
     "bg": {
       "page": {
         "background": {
-          "value": "#fff",
+          "value": "{colors.gray.3}",
           "type": "color"
         }
       },
@@ -74,20 +74,24 @@
         }
       },
       "input": {
+        "default": {
+          "value": "{colors.gray.1}",
+          "type": "color"
+        },
         "rest": {
           "value": "{colors.grayLight.1}",
           "type": "color"
         },
         "hover": {
-          "value": "{colors.grayLight.3}",
+          "value": "{colors.grayLight.2}",
           "type": "color"
         },
         "focus": {
-          "value": "#fff",
+          "value": "{colors.spacepurpleLight.3}",
           "type": "color"
         },
         "disabled": {
-          "value": "{colors.grayLight.4}",
+          "value": "{colors.gray.3}",
           "type": "color"
         }
       },
@@ -100,16 +104,16 @@
           "value": "{colors.greenLight.10}",
           "type": "color"
         },
+        "pressed": {
+          "value": "{colors.greenLight.11}",
+          "type": "color"
+        },
         "muted": {
           "value": "{colors.greenLight.9}",
           "type": "color"
         },
         "subtle": {
           "value": "{colors.greenLight.3}",
-          "type": "color"
-        },
-        "pressed": {
-          "value": "{colors.greenLight.11}",
           "type": "color"
         }
       },
@@ -122,16 +126,16 @@
           "value": "{colors.orangeLight.10}",
           "type": "color"
         },
+        "pressed": {
+          "value": "{colors.orangeLight.11}",
+          "type": "color"
+        },
         "muted": {
           "value": "{colors.orangeLight.8}",
           "type": "color"
         },
         "subtle": {
           "value": "{colors.orangeLight.3}",
-          "type": "color"
-        },
-        "pressed": {
-          "value": "{colors.orangeLight.11}",
           "type": "color"
         }
       },
@@ -144,16 +148,16 @@
           "value": "{colors.redLight.10}",
           "type": "color"
         },
+        "pressed": {
+          "value": "{colors.redLight.11}",
+          "type": "color"
+        },
         "muted": {
           "value": "{colors.redLight.8}",
           "type": "color"
         },
         "subtle": {
           "value": "{colors.redLight.3}",
-          "type": "color"
-        },
-        "pressed": {
-          "value": "{colors.redLight.11}",
           "type": "color"
         }
       },
@@ -211,6 +215,10 @@
         "value": "{colors.grayLight.5}",
         "type": "color"
       },
+      "pressed": {
+        "value": "{colors.grayLight.12}",
+        "type": "color"
+      },
       "container": {
         "value": "#fff",
         "type": "color"
@@ -229,7 +237,7 @@
       },
       "input": {
         "rest": {
-          "value": "{colors.grayLight.5}",
+          "value": "{colors.gray.6}",
           "type": "color"
         },
         "hover": {
@@ -237,17 +245,17 @@
           "type": "color"
         },
         "focus": {
-          "value": "#fff",
+          "value": "{colors.spacepurpleLight.6}",
           "type": "color"
         },
         "disabled": {
-          "value": "{colors.grayLight.7}",
+          "value": "{colors.gray.7}",
           "type": "color"
         }
       },
       "primary": {
         "rest": {
-          "value": "{colors.spacepurpleLight.9}",
+          "value": "{colors.spacePurple.9}",
           "type": "color"
         },
         "hover": {
@@ -428,11 +436,11 @@
     },
     "text": {
       "body": {
-        "value": "{colors.grayLight.12}",
+        "value": "{colors.grayLight.1}",
         "type": "color"
       },
       "subtle": {
-        "value": "{colors.grayLight.11}",
+        "value": "{colors.gray.12}",
         "type": "color"
       },
       "muted": {
@@ -468,7 +476,7 @@
         "type": "color"
       },
       "disabled": {
-        "value": "{colors.grayLight.8}",
+        "value": "{colors.gray.8}",
         "type": "color"
       },
       "status": {
@@ -500,6 +508,10 @@
         },
         "focus": {
           "value": "#fff",
+          "type": "color"
+        },
+        "placeholder": {
+          "value": "#ffff",
           "type": "color"
         }
       },

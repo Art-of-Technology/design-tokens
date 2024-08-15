@@ -3,7 +3,7 @@
     "bg": {
       "page": {
         "background": {
-          "value": "#fff",
+          "value": "{colors.common.white}",
           "type": "color"
         }
       },
@@ -436,7 +436,7 @@
     },
     "text": {
       "body": {
-        "value": "{colors.grayLight.12}",
+        "value": "{colors.gray.1}",
         "type": "color"
       },
       "subtle": {
