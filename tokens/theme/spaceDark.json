@@ -3,7 +3,7 @@
     "bg": {
       "page": {
         "background": {
-          "value": "{colors.gray.3}",
+          "value": "{colors.gray.1}",
           "type": "color"
         }
       },
@@ -97,23 +97,23 @@
       },
       "success": {
         "rest": {
-          "value": "{colors.greenLight.9}",
+          "value": "{colors.green.9}",
           "type": "color"
         },
         "hover": {
-          "value": "{colors.greenLight.10}",
+          "value": "{colors.green.10}",
           "type": "color"
         },
         "pressed": {
-          "value": "{colors.greenLight.11}",
+          "value": "{colors.green.8}",
           "type": "color"
         },
         "muted": {
-          "value": "{colors.greenLight.9}",
+          "value": "{colors.green.9}",
           "type": "color"
         },
         "subtle": {
-          "value": "{colors.greenLight.3}",
+          "value": "{colors.green.8}",
           "type": "color"
         }
       },
@@ -181,7 +181,7 @@
           "type": "color"
         },
         "hover": {
-          "value": "{colors.grayLight.3}",
+          "value": "{colors.gray.5}",
           "type": "color"
         },
         "pressed": {
@@ -204,7 +204,7 @@
     },
     "border": {
       "rest": {
-        "value": "{colors.grayLight.3}",
+        "value": "{colors.gray.9}",
         "type": "color"
       },
       "hover": {
@@ -237,7 +237,7 @@
       },
       "input": {
         "rest": {
-          "value": "{colors.gray.6}",
+          "value": "{colors.gray.9}",
           "type": "color"
         },
         "hover": {
@@ -299,7 +299,7 @@
       },
       "status": {
         "success": {
-          "value": "{colors.greenLight.9}",
+          "value": "{colors.green.9}",
           "type": "color"
         },
         "success-emphasis": {
@@ -342,7 +342,7 @@
         "type": "color"
       },
       "muted": {
-        "value": "{colors.grayLight.11}",
+        "value": "{colors.gray.10}",
         "type": "color"
       },
       "on-subtle": {
@@ -354,7 +354,7 @@
         "type": "color"
       },
       "disabled": {
-        "value": "{colors.grayLight.8}",
+        "value": "{colors.gray.8}",
         "type": "color"
       },
       "on-invert": {
@@ -481,7 +481,7 @@
       },
       "status": {
         "success": {
-          "value": "{colors.greenLight.11}",
+          "value": "{colors.green.9}",
           "type": "color"
         },
         "warning": {
