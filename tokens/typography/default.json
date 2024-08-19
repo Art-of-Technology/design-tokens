@@ -1,0 +1,276 @@
+{
+  "fontStack": {
+    "monospace": {
+      "value": "SFMono-Regular",
+      "type": "text"
+    },
+    "sansSerif": {
+      "value": "GT Walsheim Pro",
+      "type": "text"
+    },
+    "sansSerifDisplay": {
+      "value": "GT Walsheim Pro",
+      "type": "text"
+    },
+    "system": {
+      "value": "GT Walsheim Pro",
+      "type": "text"
+    }
+  },
+  "text": {
+    "display": {
+      "weight": {
+        "medium": {
+          "value": "{fontWeights.500}",
+          "type": "dimension"
+        },
+        "semibold": {
+          "value": "{fontWeights.700}",
+          "type": "dimension"
+        },
+        "bold": {
+          "value": "{fontWeights.900}",
+          "type": "dimension"
+        }
+      },
+      "size": {
+        "xl": {
+          "value": "{fontSize.64}",
+          "type": "dimension"
+        },
+        "lg": {
+          "value": "{fontSize.52}",
+          "type": "dimension"
+        },
+        "sm": {
+          "value": "{fontSize.44}",
+          "type": "dimension"
+        }
+      },
+      "lineHeight": {
+        "xl": {
+          "value": "{lineHeights.68}",
+          "type": "dimension"
+        },
+        "lg": {
+          "value": "{lineHeights.56}",
+          "type": "dimension"
+        },
+        "sm": {
+          "value": "{lineHeights.48}",
+          "type": "dimension"
+        }
+      },
+      "letterSpacing": {
+        "neg2": {
+          "value": "{letterSpacing.neg2}",
+          "type": "dimension"
+        }
+      }
+    },
+    "heading": {
+      "size": {
+        "sm": {
+          "value": "{fontSize.18}",
+          "type": "dimension"
+        },
+        "lg": {
+          "value": "{fontSize.24}",
+          "type": "dimension"
+        },
+        "xl": {
+          "value": "{fontSize.28}",
+          "type": "dimension"
+        },
+        "2xl": {
+          "value": "{fontSize.32}",
+          "type": "dimension"
+        },
+        "3xl": {
+          "value": "{fontSize.40}",
+          "type": "dimension"
+        },
+        "md": {
+          "value": "{fontSize.20}",
+          "type": "dimension"
+        }
+      },
+      "lineHeight": {
+        "xl": {
+          "value": "{lineHeights.36}",
+          "type": "dimension"
+        },
+        "lg": {
+          "value": "{lineHeights.32}",
+          "type": "dimension"
+        },
+        "sm": {
+          "value": "{lineHeights.20}",
+          "type": "dimension"
+        },
+        "2xl": {
+          "value": "{lineHeights.40}",
+          "type": "dimension"
+        },
+        "3xl": {
+          "value": "{lineHeights.48}",
+          "type": "dimension"
+        },
+        "md": {
+          "value": "{lineHeights.28}",
+          "type": "dimension"
+        }
+      },
+      "weight": {
+        "medium": {
+          "value": "{fontWeights.500}",
+          "type": "dimension"
+        },
+        "semibold": {
+          "value": "{fontWeights.700}",
+          "type": "dimension"
+        },
+        "bold": {
+          "value": "{fontWeights.900}",
+          "type": "dimension"
+        }
+      }
+    },
+    "paragraph": {
+      "size": {
+        "sm": {
+          "value": "{fontSize.14}",
+          "type": "dimension"
+        },
+        "md": {
+          "value": "{fontSize.16}",
+          "type": "dimension"
+        },
+        "lg": {
+          "value": "{fontSize.18}",
+          "type": "dimension"
+        }
+      },
+      "lineHeight": {
+        "sm": {
+          "value": "{lineHeights.20}",
+          "type": "dimension"
+        },
+        "md": {
+          "value": "{lineHeights.24}",
+          "type": "dimension"
+        },
+        "lg": {
+          "value": "{lineHeights.28}",
+          "type": "dimension"
+        }
+      },
+      "weight": {
+        "regular": {
+          "value": "{fontWeights.400}",
+          "type": "dimension"
+        },
+        "medium": {
+          "value": "{fontWeights.500}",
+          "type": "dimension"
+        },
+        "semibold": {
+          "value": "{fontWeights.700}",
+          "type": "dimension"
+        }
+      }
+    },
+    "label": {
+      "size": {
+        "sm": {
+          "value": "{fontSize.12}",
+          "type": "dimension"
+        },
+        "md": {
+          "value": "{fontSize.14}",
+          "type": "dimension"
+        },
+        "lg": {
+          "value": "{fontSize.16}",
+          "type": "dimension"
+        },
+        "xl": {
+          "value": "{fontSize.18}",
+          "type": "dimension"
+        }
+      },
+      "lineHeight": {
+        "sm": {
+          "value": "{lineHeights.16}",
+          "type": "dimension"
+        },
+        "md": {
+          "value": "{lineHeights.16}",
+          "type": "dimension"
+        },
+        "lg": {
+          "value": "{lineHeights.24}",
+          "type": "dimension"
+        },
+        "xl": {
+          "value": "{lineHeights.24}",
+          "type": "dimension"
+        }
+      },
+      "weight": {
+        "regular": {
+          "value": "{fontWeights.400}",
+          "type": "dimension"
+        },
+        "medium": {
+          "value": "{fontWeights.500}",
+          "type": "dimension"
+        },
+        "semibold": {
+          "value": "{fontWeights.700}",
+          "type": "dimension"
+        }
+      }
+    },
+    "button": {
+      "size": {
+        "sm": {
+          "value": "{fontSize.14}",
+          "type": "dimension"
+        },
+        "md": {
+          "value": "{fontSize.16}",
+          "type": "dimension"
+        },
+        "lg": {
+          "value": "{fontSize.18}",
+          "type": "dimension"
+        }
+      },
+      "lineHeight": {
+        "sm": {
+          "value": "{lineHeights.16}",
+          "type": "dimension"
+        },
+        "md": {
+          "value": "{lineHeights.24}",
+          "type": "dimension"
+        },
+        "lg": {
+          "value": "{lineHeights.24}",
+          "type": "dimension"
+        }
+      },
+      "weight": {
+        "regular": {
+          "value": "{fontWeights.400}",
+          "type": "dimension"
+        },
+        "medium": {
+          "value": "{fontWeights.500}",
+          "type": "dimension"
+        }
+      }
+    }
+  }
+}

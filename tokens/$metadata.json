@@ -1,11 +1,9 @@
 {
   "tokenSetOrder": [
-    "core",
+    "core/global",
+    "theme/dark",
+    "theme/light",
     "alias/space",
-    "alias/xtreme",
-    "brands/space/spaceLight",
-    "brands/space/spaceDark",
-    "brands/xtreme/xtremeLight",
-    "brands/xtreme/xtremeDark"
+    "typography/default"
   ]
 }
