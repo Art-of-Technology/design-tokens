@@ -13,176 +13,176 @@
     "borderRadius": {
       "none": {
         "value": "{borderRadius.0}",
-        "type": "dimension"
+        "type": "number"
       },
       "xs": {
         "value": "{borderRadius.2}",
-        "type": "dimension"
+        "type": "number"
       },
       "sm": {
         "value": "{borderRadius.4}",
-        "type": "dimension"
+        "type": "number"
       },
       "md": {
         "value": "{borderRadius.6}",
-        "type": "dimension"
+        "type": "number"
       },
       "lg": {
         "value": "{borderRadius.8}",
-        "type": "dimension"
+        "type": "number"
       },
       "xl": {
         "value": "{borderRadius.12}",
-        "type": "dimension"
+        "type": "number"
       },
       "2xl": {
         "value": "{borderRadius.16}",
-        "type": "dimension"
+        "type": "number"
       },
       "3xl": {
         "value": "{borderRadius.24}",
-        "type": "dimension"
+        "type": "number"
       },
       "full": {
         "value": "{borderRadius.9999}",
-        "type": "dimension"
+        "type": "number"
       },
       "default": {
         "value": "{borderRadius.9999}",
-        "type": "dimension"
+        "type": "number"
       }
     },
     "borderWidth": {
       "none": {
         "value": "{borderWidth.0}",
-        "type": "dimension"
+        "type": "number"
       },
       "xs": {
         "value": "{borderWidth.50}",
-        "type": "dimension"
+        "type": "number"
       },
       "sm": {
         "value": "{borderWidth.100}",
-        "type": "dimension"
+        "type": "number"
       },
       "md": {
         "value": "{borderWidth.150}",
-        "type": "dimension"
+        "type": "number"
       },
       "lg": {
         "value": "{borderWidth.200}",
-        "type": "dimension"
+        "type": "number"
       },
       "xl": {
         "value": "{borderWidth.300}",
-        "type": "dimension"
+        "type": "number"
       },
       "2xl": {
         "value": "{borderWidth.400}",
-        "type": "dimension"
+        "type": "number"
       }
     },
     "size": {
       "2xs": {
         "value": "{sizing.4}",
-        "type": "dimension"
+        "type": "number"
       },
       "xs": {
         "value": "{sizing.8}",
-        "type": "dimension"
+        "type": "number"
       },
       "sm": {
         "value": "{sizing.16}",
-        "type": "dimension"
+        "type": "number"
       },
       "md": {
         "value": "{sizing.20}",
-        "type": "dimension"
+        "type": "number"
       },
       "lg": {
         "value": "{sizing.24}",
-        "type": "dimension"
+        "type": "number"
       },
       "xl": {
         "value": "{sizing.32}",
-        "type": "dimension"
+        "type": "number"
       },
       "2xl": {
         "value": "{sizing.40}",
-        "type": "dimension"
+        "type": "number"
       },
       "3xl": {
         "value": "{sizing.48}",
-        "type": "dimension"
+        "type": "number"
       }
     },
     "spacing": {
       "content": {
         "2xs": {
           "value": "{spacing.2}",
-          "type": "dimension"
+          "type": "number"
         },
         "xs": {
           "value": "{spacing.4}",
-          "type": "dimension"
+          "type": "number"
         },
         "sm": {
           "value": "{spacing.8}",
-          "type": "dimension"
+          "type": "number"
         },
         "md": {
           "value": "{spacing.12}",
-          "type": "dimension"
+          "type": "number"
         },
         "lg": {
           "value": "{spacing.16}",
-          "type": "dimension"
+          "type": "number"
         },
         "xl": {
           "value": "{spacing.24}",
-          "type": "dimension"
+          "type": "number"
         },
         "2xl": {
           "value": "{spacing.32}",
-          "type": "dimension"
+          "type": "number"
         },
         "3xl": {
           "value": "{spacing.40}",
-          "type": "dimension"
+          "type": "number"
         },
         "4xl": {
           "value": "{spacing.48}",
-          "type": "dimension"
+          "type": "number"
         }
       },
       "layout": {
         "2xs": {
           "value": "{spacing.16}",
-          "type": "dimension"
+          "type": "number"
         },
         "xs": {
           "value": "{spacing.24}",
-          "type": "dimension"
+          "type": "number"
         },
         "sm": {
           "value": "{spacing.32}",
-          "type": "dimension"
+          "type": "number"
         },
         "md": {
           "value": "{spacing.48}",
-          "type": "dimension"
+          "type": "number"
         },
         "lg": {
           "value": "{spacing.64}",
-          "type": "dimension"
+          "type": "number"
         },
         "xl": {
           "value": "{spacing.96}",
-          "type": "dimension"
+          "type": "number"
         },
         "2xl": {
           "value": "{spacing.160}",
-          "type": "dimension"
+          "type": "number"
         }
       }
     }
