@@ -1,8 +1,8 @@
 {
   "tokenSetOrder": [
     "core/global",
-    "theme/dark",
     "theme/light",
+    "theme/dark",
     "alias/supernova",
     "typography/default"
   ]
