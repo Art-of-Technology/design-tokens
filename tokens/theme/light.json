@@ -3,7 +3,7 @@
     "bg": {
       "page": {
         "background": {
-          "value": "{colors.gray.3}",
+          "value": "{colors.common.white}",
           "type": "color"
         }
       },
@@ -31,15 +31,15 @@
       },
       "surface": {
         "raised": {
-          "value": "#fff",
+          "value": "#ffffff",
           "type": "color"
         },
         "bold": {
-          "value": "#fff",
+          "value": "#ffffff",
           "type": "color"
         },
         "strong": {
-          "value": "#fff",
+          "value": "#ffffff",
           "type": "color"
         },
         "subtle": {
@@ -75,7 +75,7 @@
       },
       "input": {
         "default": {
-          "value": "{colors.gray.1}",
+          "value": "{colors.common.white}",
           "type": "color"
         },
         "rest": {
@@ -91,7 +91,7 @@
           "type": "color"
         },
         "disabled": {
-          "value": "{colors.gray.3}",
+          "value": "{colors.grayLight.4}",
           "type": "color"
         }
       },
@@ -177,7 +177,7 @@
       },
       "action": {
         "active": {
-          "value": "#fff",
+          "value": "#ffffff",
           "type": "color"
         },
         "hover": {
@@ -220,7 +220,7 @@
         "type": "color"
       },
       "container": {
-        "value": "#fff",
+        "value": "#ffffff",
         "type": "color"
       },
       "disabled": {
@@ -237,7 +237,7 @@
       },
       "input": {
         "rest": {
-          "value": "{colors.gray.6}",
+          "value": "{colors.grayLight.7}",
           "type": "color"
         },
         "hover": {
@@ -249,13 +249,13 @@
           "type": "color"
         },
         "disabled": {
-          "value": "{colors.gray.7}",
+          "value": "{colors.grayLight.7}",
           "type": "color"
         }
       },
       "primary": {
         "rest": {
-          "value": "{colors.spacePurple.9}",
+          "value": "{colors.spacepurpleLight.9}",
           "type": "color"
         },
         "hover": {
@@ -302,7 +302,7 @@
           "value": "{colors.greenLight.9}",
           "type": "color"
         },
-        "success-emphasis": {
+        "successEmphasis": {
           "value": "{colors.greenLight.12}",
           "type": "color"
         },
@@ -310,7 +310,7 @@
           "value": "{colors.orangeLight.9}",
           "type": "color"
         },
-        "warning-emphasis": {
+        "warningEmphasis": {
           "value": "{colors.orangeLight.12}",
           "type": "color"
         },
@@ -318,7 +318,7 @@
           "value": "{colors.redLight.9}",
           "type": "color"
         },
-        "error-emphasis": {
+        "errorEmphasis": {
           "value": "{colors.redLight.12}",
           "type": "color"
         },
@@ -333,7 +333,7 @@
         "value": "{colors.grayLight.12}",
         "type": "color"
       },
-      "on-primary": {
+      "onPrimary": {
         "value": "{colors.grayLight.1}",
         "type": "color"
       },
@@ -345,7 +345,7 @@
         "value": "{colors.grayLight.11}",
         "type": "color"
       },
-      "on-subtle": {
+      "onSubtle": {
         "value": "{colors.grayLight.11}",
         "type": "color"
       },
@@ -357,16 +357,16 @@
         "value": "{colors.grayLight.8}",
         "type": "color"
       },
-      "on-invert": {
-        "value": "#fff",
+      "onInvert": {
+        "value": "#ffffff",
         "type": "color"
       },
-      "on-image": {
-        "value": "#fff",
+      "onImage": {
+        "value": "#ffffff",
         "type": "color"
       },
-      "on-input": {
-        "value": "#fff",
+      "onInput": {
+        "value": "#ffffff",
         "type": "color"
       },
       "success": {
@@ -391,7 +391,7 @@
           "type": "color"
         },
         "focus": {
-          "value": "#fff",
+          "value": "#ffffff",
           "type": "color"
         },
         "pressed": {
@@ -399,7 +399,7 @@
           "type": "color"
         },
         "disabled": {
-          "value": "#fff",
+          "value": "#ffffff",
           "type": "color"
         },
         "subtle": {
@@ -417,7 +417,7 @@
           "type": "color"
         },
         "focus": {
-          "value": "#fff",
+          "value": "#ffffff",
           "type": "color"
         },
         "pressed": {
@@ -425,7 +425,7 @@
           "type": "color"
         },
         "disabled": {
-          "value": "#fff",
+          "value": "#ffffff",
           "type": "color"
         },
         "subtle": {
@@ -436,11 +436,11 @@
     },
     "text": {
       "body": {
-        "value": "{colors.grayLight.1}",
+        "value": "{colors.gray.1}",
         "type": "color"
       },
       "subtle": {
-        "value": "{colors.gray.12}",
+        "value": "{colors.grayLight.11}",
         "type": "color"
       },
       "muted": {
@@ -451,32 +451,32 @@
         "value": "{colors.grayLight.1}",
         "type": "color"
       },
-      "on-subtle": {
-        "value": "#fff",
+      "onSubtle": {
+        "value": "#ffffff",
         "type": "color"
       },
-      "on-image": {
-        "value": "#fff",
+      "onImage": {
+        "value": "#ffffff",
         "type": "color"
       },
-      "on-invert": {
-        "value": "#fff",
+      "onInvert": {
+        "value": "#ffffff",
         "type": "color"
       },
       "inactive": {
-        "value": "#fff",
+        "value": "#ffffff",
         "type": "color"
       },
-      "on-primary": {
+      "onPrimary": {
         "value": "{colors.grayLight.1}",
         "type": "color"
       },
-      "on-secondary": {
+      "onSecondary": {
         "value": "{colors.grayLight.12}",
         "type": "color"
       },
       "disabled": {
-        "value": "{colors.gray.8}",
+        "value": "{colors.grayLight.8}",
         "type": "color"
       },
       "status": {
@@ -499,19 +499,19 @@
       },
       "input": {
         "rest": {
-          "value": "#fff",
+          "value": "#ffffff",
           "type": "color"
         },
         "hover": {
-          "value": "#fff",
+          "value": "#ffffff",
           "type": "color"
         },
         "focus": {
-          "value": "#fff",
+          "value": "#ffffff",
           "type": "color"
         },
         "placeholder": {
-          "value": "#ffff",
+          "value": "#ffffff",
           "type": "color"
         }
       },
@@ -601,11 +601,11 @@
           "type": "color"
         },
         "hover": {
-          "value": "{colors.brandColors.line-hover}",
+          "value": "{colors.brandColors.lineHover}",
           "type": "color"
         },
         "pressed": {
-          "value": "{colors.brandColors.line-pressed}",
+          "value": "{colors.brandColors.linePressed}",
           "type": "color"
         }
       }
