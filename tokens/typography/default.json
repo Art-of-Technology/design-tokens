@@ -1,19 +1,19 @@
 {
   "fontStack": {
     "monospace": {
-      "value": "SFMono-Regular",
+      "value": "{fontFamilies.sfMono}",
       "type": "text"
     },
     "sansSerif": {
-      "value": "GT Walsheim Pro",
+      "value": "{fontFamilies.gtWalsheimPro}",
       "type": "text"
     },
     "sansSerifDisplay": {
-      "value": "GT Walsheim Pro",
+      "value": "{fontFamilies.gtWalsheimPro}",
       "type": "text"
     },
     "system": {
-      "value": "GT Walsheim Pro",
+      "value": "{fontFamilies.gtWalsheimPro}",
       "type": "text"
     }
   },
@@ -21,7 +21,7 @@
     "display": {
       "weight": {
         "medium": {
-          "value": "{fontWeights.500}",
+          "value": "{fontWeights.600}",
           "type": "number"
         },
         "semibold": {
@@ -29,7 +29,7 @@
           "type": "number"
         },
         "bold": {
-          "value": "{fontWeights.900}",
+          "value": "{fontWeights.800}",
           "type": "number"
         }
       },
@@ -123,7 +123,7 @@
       },
       "weight": {
         "medium": {
-          "value": "{fontWeights.500}",
+          "value": "{fontWeights.600}",
           "type": "number"
         },
         "semibold": {
@@ -131,7 +131,7 @@
           "type": "number"
         },
         "bold": {
-          "value": "{fontWeights.900}",
+          "value": "{fontWeights.800}",
           "type": "number"
         }
       }
@@ -171,7 +171,7 @@
           "type": "number"
         },
         "medium": {
-          "value": "{fontWeights.500}",
+          "value": "{fontWeights.600}",
           "type": "number"
         },
         "semibold": {
@@ -223,7 +223,7 @@
           "type": "number"
         },
         "medium": {
-          "value": "{fontWeights.500}",
+          "value": "{fontWeights.600}",
           "type": "number"
         },
         "semibold": {
@@ -267,7 +267,7 @@
           "type": "number"
         },
         "medium": {
-          "value": "{fontWeights.500}",
+          "value": "{fontWeights.600}",
           "type": "number"
         }
       }

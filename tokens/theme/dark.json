@@ -3,29 +3,29 @@
     "bg": {
       "page": {
         "background": {
-          "value": "{colors.gray.1}",
+          "value": "{colors.slate.2}",
           "type": "color"
         }
       },
       "primary": {
         "rest": {
-          "value": "{colors.spacePurple.9}",
+          "value": "{colors.spacepurple.9}",
           "type": "color"
         },
         "hover": {
-          "value": "{colors.spacepurpleLight.10}",
+          "value": "{colors.spacepurple.8}",
           "type": "color"
         },
         "pressed": {
-          "value": "{colors.spacepurpleLight.11}",
+          "value": "{colors.spacepurple.10}",
           "type": "color"
         },
         "subtle": {
-          "value": "{colors.spacepurpleLight.3}",
+          "value": "{colors.spacepurple.12}",
           "type": "color"
         },
         "disabled": {
-          "value": "{colors.spacepurpleLight.4}",
+          "value": "{colors.spacepurple.4}",
           "type": "color"
         }
       },
@@ -47,29 +47,33 @@
           "type": "color"
         },
         "disabled": {
-          "value": "{colors.grayLight.6}",
+          "value": "{colors.gray.6}",
+          "type": "color"
+        },
+        "normal": {
+          "value": "#1c1b2b",
           "type": "color"
         }
       },
       "secondary": {
         "rest": {
-          "value": "{colors.spacesunLight.9}",
+          "value": "{colors.spacesun.7}",
           "type": "color"
         },
         "hover": {
-          "value": "{colors.spacesunLight.10}",
+          "value": "{colors.spacesun.6}",
           "type": "color"
         },
         "pressed": {
-          "value": "{colors.spacesunLight.11}",
+          "value": "{colors.spacesun.8}",
           "type": "color"
         },
         "subtle": {
-          "value": "{colors.spacesunLight.3}",
+          "value": "{colors.spacesun.12}",
           "type": "color"
         },
         "disabled": {
-          "value": "{colors.spacesunLight.4}",
+          "value": "{colors.spacesun.4}",
           "type": "color"
         }
       },
@@ -87,7 +91,7 @@
           "type": "color"
         },
         "focus": {
-          "value": "{colors.spacepurpleLight.3}",
+          "value": "{colors.spacepurple.3}",
           "type": "color"
         },
         "disabled": {
@@ -113,29 +117,29 @@
           "type": "color"
         },
         "subtle": {
-          "value": "{colors.green.8}",
+          "value": "{colors.green.3}",
           "type": "color"
         }
       },
       "warning": {
         "rest": {
-          "value": "{colors.orangeLight.9}",
+          "value": "{colors.orange.9}",
           "type": "color"
         },
         "hover": {
-          "value": "{colors.orangeLight.10}",
+          "value": "{colors.orange.10}",
           "type": "color"
         },
         "pressed": {
-          "value": "{colors.orangeLight.11}",
+          "value": "{colors.orange.8}",
           "type": "color"
         },
         "muted": {
-          "value": "{colors.orangeLight.8}",
+          "value": "{colors.orange.3}",
           "type": "color"
         },
         "subtle": {
-          "value": "{colors.orangeLight.3}",
+          "value": "{colors.orange.3}",
           "type": "color"
         }
       },
@@ -157,7 +161,7 @@
           "type": "color"
         },
         "subtle": {
-          "value": "{colors.redLight.3}",
+          "value": "{colors.red.3}",
           "type": "color"
         }
       },
@@ -185,15 +189,15 @@
           "type": "color"
         },
         "pressed": {
-          "value": "{colors.grayLight.4}",
+          "value": "{colors.grayLight.11}",
           "type": "color"
         },
         "subtle": {
-          "value": "{colors.spacepurpleLight.3}",
+          "value": "{colors.spacepurple.3}",
           "type": "color"
         },
         "disabled": {
-          "value": "{colors.grayLight.4}",
+          "value": "{colors.gray.6}",
           "type": "color"
         },
         "rest": {
@@ -224,15 +228,15 @@
         "type": "color"
       },
       "disabled": {
-        "value": "{colors.grayLight.7}",
+        "value": "{colors.gray.6}",
         "type": "color"
       },
       "focus": {
-        "value": "{colors.blueLight.11}",
+        "value": "{colors.blueLight.9}",
         "type": "color"
       },
       "outline": {
-        "value": "{colors.grayLight.12}",
+        "value": "{colors.grayLight.1}",
         "type": "color"
       },
       "input": {
@@ -245,7 +249,7 @@
           "type": "color"
         },
         "focus": {
-          "value": "{colors.spacepurpleLight.6}",
+          "value": "{colors.spacepurple.6}",
           "type": "color"
         },
         "disabled": {
@@ -255,11 +259,11 @@
       },
       "primary": {
         "rest": {
-          "value": "{colors.spacePurple.9}",
+          "value": "{colors.spacepurple.6}",
           "type": "color"
         },
         "hover": {
-          "value": "{colors.spacepurpleLight.10}",
+          "value": "{colors.spacepurple.5}",
           "type": "color"
         },
         "emphasis": {
@@ -267,33 +271,37 @@
           "type": "color"
         },
         "pressed": {
-          "value": "{colors.spacepurpleLight.11}",
+          "value": "{colors.spacepurple.8}",
           "type": "color"
         },
         "disabled": {
-          "value": "{colors.spacepurpleLight.2}",
+          "value": "{colors.spacepurple.2}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{colors.spacepurple.10}",
           "type": "color"
         }
       },
       "secondary": {
         "rest": {
-          "value": "{colors.spacesunLight.9}",
+          "value": "{colors.spacesun.7}",
           "type": "color"
         },
         "hover": {
-          "value": "{colors.spacesunLight.10}",
+          "value": "{colors.spacesun.8}",
           "type": "color"
         },
         "emphasis": {
-          "value": "{colors.spacesunLight.12}",
+          "value": "{colors.spacesun.6}",
           "type": "color"
         },
         "pressed": {
-          "value": "{colors.spacesunLight.11}",
+          "value": "{colors.spacesun.8}",
           "type": "color"
         },
         "disabled": {
-          "value": "{colors.spacesunLight.2}",
+          "value": "{colors.spacesun.2}",
           "type": "color"
         }
       },
@@ -330,7 +338,7 @@
     },
     "icon": {
       "neutral": {
-        "value": "{colors.grayLight.12}",
+        "value": "{colors.common.white}",
         "type": "color"
       },
       "onPrimary": {
@@ -383,11 +391,11 @@
       },
       "primary": {
         "rest": {
-          "value": "{colors.spacepurpleLight.9}",
+          "value": "{colors.spacepurple.7}",
           "type": "color"
         },
         "hover": {
-          "value": "{colors.spacepurpleLight.10}",
+          "value": "{colors.spacepurple.6}",
           "type": "color"
         },
         "focus": {
@@ -395,7 +403,7 @@
           "type": "color"
         },
         "pressed": {
-          "value": "{colors.spacepurpleLight.11}",
+          "value": "{colors.spacepurple.6}",
           "type": "color"
         },
         "disabled": {
@@ -403,17 +411,17 @@
           "type": "color"
         },
         "subtle": {
-          "value": "{colors.spacepurpleLight.8}",
+          "value": "{colors.spacepurple.8}",
           "type": "color"
         }
       },
       "secondary": {
         "rest": {
-          "value": "{colors.spacesunLight.9}",
+          "value": "{colors.spacesun.7}",
           "type": "color"
         },
         "hover": {
-          "value": "{colors.spacesunLight.10}",
+          "value": "{colors.spacesun.6}",
           "type": "color"
         },
         "focus": {
@@ -421,7 +429,7 @@
           "type": "color"
         },
         "pressed": {
-          "value": "{colors.spacesunLight.11}",
+          "value": "{colors.spacesun.9}",
           "type": "color"
         },
         "disabled": {
@@ -429,7 +437,41 @@
           "type": "color"
         },
         "subtle": {
-          "value": "{colors.spacesunLight.5}",
+          "value": "{colors.spacesun.5}",
+          "type": "color"
+        }
+      },
+      "onSecondary": {
+        "value": "{colors.common.white}",
+        "type": "color"
+      },
+      "static": {
+        "value": "{colors.common.black}",
+        "type": "color"
+      },
+      "spinner": {
+        "value": "{colors.common.white}",
+        "type": "color"
+      },
+      "rest": {
+        "value": "{colors.common.white}",
+        "type": "color"
+      },
+      "action": {
+        "rest": {
+          "value": "{colors.grayLight.10}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{colors.spacesun.6}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{colors.spacesun.9}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{colors.spacesun.5}",
           "type": "color"
         }
       }
@@ -448,7 +490,7 @@
         "type": "color"
       },
       "inverse": {
-        "value": "{colors.grayLight.1}",
+        "value": "{colors.common.black}",
         "type": "color"
       },
       "onSubtle": {
@@ -468,11 +510,11 @@
         "type": "color"
       },
       "onPrimary": {
-        "value": "{colors.grayLight.1}",
+        "value": "{colors.common.white}",
         "type": "color"
       },
       "onSecondary": {
-        "value": "{colors.grayLight.12}",
+        "value": "{colors.common.white}",
         "type": "color"
       },
       "disabled": {
@@ -481,7 +523,7 @@
       },
       "status": {
         "success": {
-          "value": "{colors.green.9}",
+          "value": "{colors.green.11}",
           "type": "color"
         },
         "warning": {
@@ -517,15 +559,15 @@
       },
       "primary": {
         "rest": {
-          "value": "{colors.spacepurpleLight.9}",
+          "value": "{colors.spacepurple.6}",
           "type": "color"
         },
         "hover": {
-          "value": "{colors.spacepurpleLight.10}",
+          "value": "{colors.spacepurple.5}",
           "type": "color"
         },
         "pressed": {
-          "value": "{colors.spacepurpleLight.11}",
+          "value": "{colors.spacepurple.5}",
           "type": "color"
         },
         "disabled": {
@@ -533,7 +575,7 @@
           "type": "color"
         },
         "emphasis": {
-          "value": "{colors.spacepurpleLight.9}",
+          "value": "{colors.spacepurple.9}",
           "type": "color"
         },
         "link": {
@@ -551,15 +593,15 @@
       },
       "secondary": {
         "rest": {
-          "value": "{colors.spacesunLight.9}",
+          "value": "{colors.spacesun.6}",
           "type": "color"
         },
         "hover": {
-          "value": "{colors.spacesunLight.10}",
+          "value": "{colors.spacesun.6}",
           "type": "color"
         },
         "pressed": {
-          "value": "{colors.spacesunLight.11}",
+          "value": "{colors.spacesun.8}",
           "type": "color"
         },
         "disabled": {
@@ -567,7 +609,7 @@
           "type": "color"
         },
         "emphasis": {
-          "value": "{colors.spacesunLight.9}",
+          "value": "{colors.spacesun.9}",
           "type": "color"
         },
         "link": {
@@ -580,6 +622,24 @@
         },
         "focus": {
           "value": "{colors.spacesunLight.9}",
+          "type": "color"
+        }
+      },
+      "static": {
+        "value": "{colors.common.black}",
+        "type": "color"
+      },
+      "link": {
+        "rest": {
+          "value": "{colors.spacePurple.9}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{colors.spacePurple.10}",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "{colors.spacePurple.8}",
           "type": "color"
         }
       }

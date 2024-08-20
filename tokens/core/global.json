@@ -1552,51 +1552,51 @@
     },
     "spacesun": {
       "1": {
-        "value": "#13110b",
+        "value": "#fefdfa",
         "type": "color"
       },
       "2": {
-        "value": "#1b180f",
+        "value": "#ffffe7",
         "type": "color"
       },
       "3": {
-        "value": "#2b2206",
+        "value": "#ffffc1",
         "type": "color"
       },
       "4": {
-        "value": "#3a2a00",
+        "value": "#fffb86",
         "type": "color"
       },
       "5": {
-        "value": "#463400",
+        "value": "#fff141",
         "type": "color"
       },
       "6": {
-        "value": "#544200",
+        "value": "#ffe10d",
         "type": "color"
       },
       "7": {
-        "value": "#675414",
+        "value": "#ffd200",
         "type": "color"
       },
       "8": {
-        "value": "#836b1d",
+        "value": "#faaf00",
         "type": "color"
       },
       "9": {
-        "value": "#ffcd00",
+        "value": "#f4a506",
         "type": "color"
       },
       "10": {
-        "value": "#f5c300",
+        "value": "#a4650a",
         "type": "color"
       },
       "11": {
-        "value": "#ffcf0d",
+        "value": "#74460f",
         "type": "color"
       },
       "12": {
-        "value": "#fce9b2",
+        "value": "#442404",
         "type": "color"
       }
     },
@@ -1621,6 +1621,56 @@
       },
       "linePressed": {
         "value": "#048b3c",
+        "type": "color"
+      }
+    },
+    "spacepurple": {
+      "1": {
+        "value": "#fdfdff",
+        "type": "color"
+      },
+      "2": {
+        "value": "#f4f2ff",
+        "type": "color"
+      },
+      "3": {
+        "value": "#ebe8ff",
+        "type": "color"
+      },
+      "4": {
+        "value": "#d9d4ff",
+        "type": "color"
+      },
+      "5": {
+        "value": "#bdb1ff",
+        "type": "color"
+      },
+      "6": {
+        "value": "#9c85ff",
+        "type": "color"
+      },
+      "7": {
+        "value": "#9a53fd",
+        "type": "color"
+      },
+      "8": {
+        "value": "#6e31f6",
+        "type": "color"
+      },
+      "9": {
+        "value": "#5e1ee2",
+        "type": "color"
+      },
+      "10": {
+        "value": "#4f19be",
+        "type": "color"
+      },
+      "11": {
+        "value": "#43179b",
+        "type": "color"
+      },
+      "12": {
+        "value": "#270c69",
         "type": "color"
       }
     }
